@@ -1,0 +1,215 @@
+:root {
+  --md-text-font: "JetBrains Mono", "LXGW WenKai Screen"; 
+}
+
+.md-typeset h1, .md-typeset h2 {
+  font-weight: 600;
+}
+
+.md-typeset h3 {
+  font-weight: 500;
+}
+
+.md-typeset h1, .md-typeset h2, .md-typeset h3, .md-typeset h4 {
+  letter-spacing: 0;
+}
+
+.md-typeset {
+  font-size: .75rem;
+}
+
+.md-typeset h3 {
+  font-weight: 600;
+}
+
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: #efefef;
+  --md-primary-bg-color: #000000;
+  --md-typeset-a-color: #555555;
+  --md-footer-fg-color: #000000;
+  --md-footer-bg-color: #efefef;
+  --md-footer-bg-color--dark: #efefef;
+  --md-footer-fg-color--light: #000000;
+  --md-footer-fg-color--lighter: #000000;
+  --md-code-bg-color: #fafafa;
+}
+
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color: #161616;
+  --md-default-bg-color--light: #161616;
+  --md-default-bg-color--lighter: #161616;
+  --md-default-bg-color--lightest: #161616;
+  --md-default-fg-color: rgba(255,255,255,0.9);
+  --md-default-fg-color--light: rgba(255,255,255,0.85);
+  --md-default-fg-color--lighter: rgba(255,255,255,0.8);
+  --md-default-fg-color--lightest: rgba(255,255,255,0.6);
+  --md-primary-fg-color: #0d0d0d;
+  --md-typeset-a-color: #d3d3d3;
+  --md-footer-fg-color: #fff;
+  --md-footer-bg-color: #0d0d0d;
+  --md-footer-bg-color--dark: #0d0d0d;
+  --md-footer-fg-color--light: #fff;
+  --md-footer-fg-color--lighter: #fff;
+  --md-code-bg-color: #1d1d1d;
+}
+
+input.md-search__input {
+  background-color: #fff;
+}
+
+[data-md-color-scheme="slate"] input.md-search__input {
+  background-color: #000;
+}
+
+[data-md-color-scheme="slate"] .md-typeset .md-content__button {
+  color: #555555;
+}
+
+.md-copyright {
+  font-size: .55rem;
+}
+
+body:not([data-md-prefers-color-scheme=true])[data-md-color-scheme=slate] .md-icon .light-mode,
+body:not([data-md-prefers-color-scheme=true])[data-md-color-scheme=slate] .md-icon .system-mode,
+body:not([data-md-prefers-color-scheme=true])[data-md-color-scheme=slate] .md-icon .unknown-mode {
+  display: none;
+}
+body:not([data-md-prefers-color-scheme=true])[data-md-color-scheme=default] .md-icon .dark-mode,
+body:not([data-md-prefers-color-scheme=true])[data-md-color-scheme=default] .md-icon .system-mode,
+body:not([data-md-prefers-color-scheme=true])[data-md-color-scheme=default] .md-icon .unknown-mode {
+  display: none;
+}
+body:not([data-md-prefers-color-scheme=true]):not([data-md-color-scheme=default]):not([data-md-color-scheme=slate]) .md-icon .dark-mode,
+body:not([data-md-prefers-color-scheme=true]):not([data-md-color-scheme=default]):not([data-md-color-scheme=slate]) .md-icon .light-mode,
+body:not([data-md-prefers-color-scheme=true]):not([data-md-color-scheme=default]):not([data-md-color-scheme=slate]) .md-icon .system-mode {
+  display: none;
+}
+body[data-md-prefers-color-scheme=true] .md-icon .dark-mode,
+body[data-md-prefers-color-scheme=true] .md-icon .light-mode,
+body[data-md-prefers-color-scheme=true] .md-icon .unknown-mode {
+  display: none;
+}
+
+@media screen and (max-width: 59.9375em) {
+  .md-nav__source {
+    background-color: var(--md-primary-fg-color);
+  }
+}
+
+@media screen and (max-width: 76.1875em) {
+  .md-nav--primary .md-nav__title {
+    background-color: var(--md-primary-fg-color);
+  }
+}
+
+[data-md-color-scheme="slate"] .md-annotation__index:after {
+  background-color: #4c4c4c;
+}
+
+input#mkdocs-content-password {
+  width: 6rem;
+}
+
+[data-md-color-scheme="slate"] input#mkdocs-content-password {
+  background-color: #161616;
+}
+
+.katex {
+  -webkit-text-stroke-width: 0.3px;
+}
+
+.reference ol {
+  counter-reset: li;
+}
+.reference li {
+  padding-left: 0.7em;
+  counter-increment: li;
+  word-break: break-all;
+}
+.reference li::marker {
+  content: "[" counter(li) "]";
+  font-size: 0.8em;
+}
+
+.riscv-table, .fl-table {
+  width: 100%;
+  display: inline-table;
+  table-layout: fixed;
+  /* border-collapse: collapse; */
+}
+.riscv-table-node {
+  text-align: center;
+  padding: 0.2em;
+  border: 0.04rem solid var(--md-default-fg-color);
+}
+.riscv-table-node-little, .fl-table-node {
+  text-align: center;
+  padding: 0.1em;
+  border: 0.04rem solid var(--md-default-fg-color);
+}
+.riscv-table-numnode {
+  font-size: .4rem;
+}
+.riscv-table-undernode {
+  font-size: .6rem;
+  text-align: center;
+}
+.riscv-table-numnodel {
+  font-size: .4rem;
+  text-align: left;
+}
+.riscv-table-numnoder {
+  font-size: .4rem;
+  text-align: right;
+}
+@media (max-width: 700px) {
+  .riscv-table-node, .riscv-table-node-little, .fl-table-node {
+    font-size: .6rem;
+  }
+}
+@media (max-width: 610px) {
+  .riscv-table-node, .riscv-table-node-little, .fl-table-node {
+    font-size: .5rem;
+  }
+}
+@media (max-width: 602px) {
+  .riscv-table-node, .riscv-table-node-little {
+    overflow-x: scroll;
+    word-wrap: normal;
+  }
+  .riscv-table-numnoder {
+    font-size: 0px;
+  }
+  .riscv-table-numnodel {
+    word-wrap: normal;
+  }
+}
+
+[data-md-color-scheme="slate"] .fl-affected {
+  background: linear-gradient(
+    45deg, 
+    rgb(255 255 255 / 30%) 0, rgb(255 255 255 / 30%) 25%, transparent 25%, transparent 50%, 
+    rgb(255 255 255 / 30%) 50%, rgb(255 255 255 / 30%) 75%, transparent 75%, transparent
+  );
+  background-size: 10px 10px;
+}
+[data-md-color-scheme="default"] .fl-affected {
+  background: linear-gradient(
+    45deg, 
+    rgb(0 0 0 / 30%) 0, rgb(0 0 0 / 30%) 25%, transparent 25%, transparent 50%, 
+    rgb(0 0 0 / 30%) 50%, rgb(0 0 0 / 30%) 75%, transparent 75%, transparent
+  );
+  background-size: 10px 10px;
+}
+[data-md-color-scheme="slate"] .fl-special {
+  background: rgb(255 255 255 / 30%);
+}
+[data-md-color-scheme="default"] .fl-special {
+  background: rgb(0 0 0 / 30%);
+}
+[data-md-color-scheme="slate"] .fl-undefined {
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%"><g><line x1="0" y1="0" x2="100%" y2="100%" stroke="rgba(255,255,255,0.9)" stroke-width="1"/></g><g><line x1="0" y1="100%" x2="100%" y2="0" stroke="rgba(255,255,255,0.9)" stroke-width="1"/></g></svg>');
+}
+[data-md-color-scheme="default"] .fl-undefined {
+  background-image: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="100%" height="100%"><g><line x1="0" y1="0" x2="100%" y2="100%" stroke="rgba(0, 0, 0, 0.85)" stroke-width="1"/></g><g><line x1="0" y1="100%" x2="100%" y2="0" stroke="rgba(0, 0, 0, 0.85)" stroke-width="1"/></g></svg>');
+}

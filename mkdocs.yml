@@ -1,0 +1,85 @@
+site_name: 图灵 2022 学长组资料汇总
+site_url: https://turing.tonycrane.cc/
+site_description: 图灵 2022 学长组信息汇总
+copyright: Copyright &copy; 2022 浙江大学图灵班学长组
+
+theme: 
+  name: 'material'
+  language: 'zh'
+  icon: 
+    logo: material/notebook-outline
+  custom_dir: overrides
+  favicon: images/icon.png
+  features:
+    - content.code.annotate
+    - navigation.tracking
+    # - navigation.tabs
+    - navigation.indexes
+    - navigation.top
+  font:
+    text: JetBrains Mono
+    code: JetBrains Mono
+  palette:
+    - scheme: default
+
+markdown_extensions:
+  - toc:
+      permalink: true
+      toc_depth: 3
+  - meta
+  - def_list
+  - attr_list
+  - md_in_html
+  - sane_lists
+  - admonition
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.snippets
+  - pymdownx.magiclink
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.arithmatex:
+      generic: true
+
+extra_css:
+  - https://gcore.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.css
+  - https://gcore.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.1.0/style.css
+  - https://gcore.jsdelivr.net/npm/lxgw-wenkai-webfont@1.1.0/style.css
+  - https://cdn.tonycrane.cc/turing2022/css/tasklist.css
+  - https://cdn.tonycrane.cc/turing2022/css/card.css
+  # - https://cdn.tonycrane.cc/turing2022/css/custom.css
+  - css/custom.css
+
+extra_javascript:
+  - https://gcore.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js
+  - https://cdn.tonycrane.cc/turing2022/js/katex.js
+  # js/scheme.js # this is in template 'base.html'
+
+plugins:
+  - search
+  - encryptcontent:  # now just for one page, need to be improved
+      title_prefix: "🔒 "
+      summary: '这个页面被加密叻(･･;)'
+      placeholder: '在此输入密码     '
+      decryption_failure_message: '密码错误'
+      encryption_info_message: '请输入密码查看本篇文章（请联系我）'
+      remember_password: True 
+      default_expire_dalay: 24
+      encrypted_something:
+        mkdocs-encrypted-toc: [nav, class]
+
+nav:
+  - Home: index.md
+  - 回忆卷: old_exam.md
