@@ -159,3 +159,8 @@ input#mkdocs-content-password {
 .md-typeset .general > p {
   font-size: .75rem;
 }
+
+.md-typeset .tabbed-set {
+  margin: 0;
+  display: block;
+}
