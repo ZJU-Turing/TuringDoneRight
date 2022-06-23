@@ -2,6 +2,11 @@
   --md-text-font: "JetBrains Mono", "LXGW WenKai Screen"; 
 }
 
+/* p, li {
+  font-family: "Times New Roman", "Songti SC";
+  font-weight: 600;
+} */
+
 .md-typeset h1, .md-typeset h2 {
   font-weight: 600;
 }
@@ -26,6 +31,7 @@
   --md-primary-fg-color: rgb(0, 63, 136);
   --md-primary-bg-color: #FFFFFF;
   --md-typeset-a-color: #555555;
+  --md-default-fg-color: #000000;
   --md-footer-fg-color: #000000;
   --md-footer-bg-color: #EFEFEF;
   --md-footer-bg-color--dark: rgb(60, 53, 120);
@@ -39,7 +45,7 @@
   --md-default-bg-color--light: #161616;
   --md-default-bg-color--lighter: #161616;
   --md-default-bg-color--lightest: #161616;
-  --md-default-fg-color: rgba(255,255,255,0.9);
+  --md-default-fg-color: rgba(255,255,255);
   --md-default-fg-color--light: rgba(255,255,255,0.85);
   --md-default-fg-color--lighter: rgba(255,255,255,0.8);
   --md-default-fg-color--lightest: rgba(255,255,255,0.6);
@@ -122,4 +128,34 @@ input#mkdocs-content-password {
 .reference li::marker {
   content: "[" counter(li) "]";
   font-size: 0.8em;
+}
+
+.md-typeset .admonition.general,
+.md-typeset details.general {
+  border-color: rgb(0, 63, 136, 0);
+}
+.md-typeset .general > .admonition-title,
+.md-typeset .general > summary {
+  background-color: rgba(0, 63, 136, 0.1);
+}
+[data-md-color-scheme="slate"] .md-typeset .general > .admonition-title,
+[data-md-color-scheme="slate"] .md-typeset .general > summary {
+  background-color: rgba(60, 53, 120, 0.2);
+}
+.md-typeset .general > .admonition-title::before,
+.md-typeset .general > summary::before {
+  content: none;
+}
+.md-typeset :is(.admonition-title,summary,.general) {
+  border: 0 solid rgb(0, 63, 136, 0);
+}
+[dir=ltr] .md-typeset .general > summary {
+  padding-left: 0.6rem;
+  padding-right: 0.6rem;
+}
+.md-typeset .general > summary > em {
+  color:rgb(0, 114, 255)
+}
+.md-typeset .general > p {
+  font-size: .75rem;
 }

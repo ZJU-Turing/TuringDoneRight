@@ -25,7 +25,7 @@ theme:
 markdown_extensions:
   - toc:
       permalink: true
-      toc_depth: 3
+      toc_depth: 4
   - meta
   - def_list
   - attr_list
@@ -65,12 +65,13 @@ extra_css:
 extra_javascript:
   - https://gcore.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js
   - https://cdn.tonycrane.cc/turing2022/js/katex.js
+  # js/toc.js    # this is in template 'base.html'
   # js/scheme.js # this is in template 'base.html'
 
 plugins:
   - search
   - encryptcontent:  # now just for one page, need to be improved
-      title_prefix: "🔒 "
+      title_prefix: ""
       summary: '这个页面被加密叻(･･;)'
       placeholder: '在此输入密码     '
       decryption_failure_message: '密码错误'
@@ -81,5 +82,6 @@ plugins:
         mkdocs-encrypted-toc: [nav, class]
 
 nav:
-  - Home: index.md
+  - 主页: index.md
+  - 通识经验: general.md
   - 回忆卷: old_exam.md
