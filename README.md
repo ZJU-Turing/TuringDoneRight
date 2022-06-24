@@ -5,7 +5,8 @@
 - 安装 mkdocs 及 material 主题
     ```sh
     $ pip install mkdocs
-    $ pip install mkdocs-material
+    $ pip install mkdocs-material==8.1.4  # 新版会有些问题（？
+    $ pip install mkdocs-encryptcontent-plugin
     ```
 - 开启本地预览服务
     ```sh
