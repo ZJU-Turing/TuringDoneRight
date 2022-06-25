@@ -65,6 +65,7 @@ extra_css:
 extra_javascript:
   - https://gcore.jsdelivr.net/npm/katex@0.15.1/dist/katex.min.js
   - https://cdn.tonycrane.cc/turing2022/js/katex.js
+  - https://pan.yusux.xyz/source_one/js/suspension_img/suspension.js
   # js/toc.js    # this is in template 'base.html'
   # js/scheme.js # this is in template 'base.html'
 
@@ -83,5 +84,6 @@ plugins:
 
 nav:
   - 主页: index.md
+  - 购机推荐: machine.md
   - 通识经验: general.md
   - 回忆卷: old_exam.md

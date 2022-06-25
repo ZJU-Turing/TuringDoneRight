@@ -164,3 +164,42 @@ input#mkdocs-content-password {
   margin: 0;
   display: block;
 }
+
+/* heimu moegirl */
+.heimu, .heimu a, a .heimu, .heimu a.new {
+  background-color: #252525;
+  color: #252525;
+  text-shadow: none;
+}
+.heimu:hover, .heimu:active,
+.heimu:hover .heimu, .heimu:active .heimu {
+  color: white !important;
+}
+.heimu:hover a, a:hover .heimu,
+.heimu:active a, a:active .heimu {
+  color: lightblue !important;
+}
+.heimu:hover .new, .heimu .new:hover, .new:hover .heimu,
+.heimu:active .new, .heimu .new:active, .new:active .heimu {
+  color: #BA0000 !important;
+}
+
+.noneimg{  
+  position: absolute;  
+  display: none;  
+}
+
+.aspect-ratio {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 75%;
+}
+
+.aspect-ratio iframe {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+}
