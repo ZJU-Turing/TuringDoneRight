@@ -27,6 +27,10 @@
   font-weight: 600;
 }
 
+html .md-footer-meta.md-typeset a:is(:focus,:hover) {
+  color: rgba(255,255,255,0.6);
+}
+
 [data-md-color-scheme="default"] {
   --md-primary-fg-color: rgb(0, 63, 136);
   --md-primary-bg-color: #FFFFFF;
