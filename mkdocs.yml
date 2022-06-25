@@ -85,5 +85,6 @@ plugins:
 nav:
   - 主页: index.md
   - 购机推荐: machine.md
+  - 暑假学习建议: summer_study.md
   - 通识经验: general.md
   - 回忆卷: old_exam.md

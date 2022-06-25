@@ -156,7 +156,7 @@ input#mkdocs-content-password {
 .md-typeset .general > summary > em {
   color:rgb(0, 114, 255)
 }
-.md-typeset .general > p {
+.md-typeset .general > p, .md-typeset .abstract > p, .md-typeset .warning > p {
   font-size: .75rem;
 }
 
