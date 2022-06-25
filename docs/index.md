@@ -12,14 +12,8 @@ home: true
 
 ## Table of Contents
 
-咕咕咕
-
-## TODO list
-
-- [x] 主题配色微调
-- [ ] Q&A
-- [ ] 学习指导建议
-    - [ ] 主修课
-    - [ ] 通识建议
-- [x] 回忆卷
-- [ ] ...
+- [学长组 Q&A 总结（**WIP**）](qa)
+- [暑假购机推荐](machine)
+- [暑假学习建议](summer_study)
+- [通识课程经验（**WIP**）](general)
+- [回忆卷汇总（**WIP**）](old_exam)

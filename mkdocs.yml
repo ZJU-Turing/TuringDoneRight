@@ -89,6 +89,7 @@ plugins:
 
 nav:
   - 主页: index.md
+  - Q&A: qa.md
   - 购机推荐: machine.md
   - 暑假学习建议: summer_study.md
   - 通识经验: general.md
