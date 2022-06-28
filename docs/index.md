@@ -14,6 +14,7 @@ home: true
 
 - [学长组 Q&A 总结（**WIP**）](qa)
 - [暑假购机推荐](machine)
+- [新生防诈骗指南](anti_fraud)
 - [暑假学习建议](summer_study)
 - [通识课程经验（**WIP**）](general)
 - [回忆卷汇总（**WIP**）](old_exam)
