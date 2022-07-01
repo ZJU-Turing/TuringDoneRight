@@ -18,3 +18,4 @@ home: true
 - [暑假学习建议](summer_study)
 - [通识课程经验（**WIP**）](general)
 - [回忆卷汇总（**WIP**）](old_exam)
+- [关于学校校网的连接](rvpn.md)
