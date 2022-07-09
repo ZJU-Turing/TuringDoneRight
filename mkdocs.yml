@@ -89,8 +89,8 @@ plugins:
 
 nav:
   - 主页: index.md
-  - Q&A 总结: qa.md
-  - 购机推荐: machine.md
+  - 学长组 Q&A 总结: qa.md
+  - 暑假购机推荐: machine.md
   - 新生防诈骗指南: anti_fraud.md
   - 暑假学习建议: summer_study.md
   - 校网连接指南: rvpn.md
