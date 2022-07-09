@@ -104,6 +104,18 @@ counter: True
         重启电脑，之后进行连接：  
         ![](https://cdn.tonycrane.cc/turing2022/images/line-12.png)  
         ![](https://cdn.tonycrane.cc/turing2022/images/line-13.png)  
+    
+老学长写的有线连接指南：
+
+<div class="card file-block" markdown="1">
+<div class="file-icon"><img src="https://cdn.tonycrane.cc/turing2022/images/pdf.svg" style="height: 3em;"></div>
+<div class="file-body">
+<div class="file-title">如何在寝室用有线上网呢</div>
+<div class="file-meta">355 KB / 6 P</div>
+</div>
+<a class="down-button" target="_blank" href="https://cdn.tonycrane.cc/turing2022/files/%E5%A6%82%E4%BD%95%E5%9C%A8%E5%AF%9D%E5%AE%A4%E7%94%A8%E6%9C%89%E7%BA%BF%E4%B8%8A%E7%BD%91%E5%91%A2.pdf" markdown="1">:fontawesome-solid-download: 下载</a>
+</div>
+
 
 ## VPN 连接校网  
 
@@ -113,7 +125,7 @@ counter: True
 
 浙大提供的[使用 rvpn 的方法](https://zuits.zju.edu.cn/12084/listm.htm)是通过 EasyConnect 软件进行连接。但是这个软件很脏、比较“流氓”，所以不建议使用
 
-如果要使用 rvpn 来连接校网的话，可以参考 [:material-github: SoraShu/easyconn-socks5-for-HITsz](https://github.com/SoraShu/easyconn-socks5-for-HITsz) 来搭建一个隔离的 EasyConnect 环境提供代理服务
+如果要使用 rvpn 来连接校网的话，可以参考 [:material-github: SoraShu/easyconn-socks5-for-HITsz](https://github.com/SoraShu/easyconn-socks5-for-HITsz) 来搭建一个隔离的 EasyConnect 环境提供代理服务（亲测可用）
 
 ### WebVPN  
 

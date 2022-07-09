@@ -89,10 +89,10 @@ plugins:
 
 nav:
   - 主页: index.md
-  - Q&A: qa.md
+  - Q&A 总结: qa.md
   - 购机推荐: machine.md
   - 新生防诈骗指南: anti_fraud.md
   - 暑假学习建议: summer_study.md
   - 校网连接指南: rvpn.md
-  - 通识经验: general.md
-  - 回忆卷: old_exam.md
+  # - 通识经验: general.md
+  # - 回忆卷: old_exam.md
