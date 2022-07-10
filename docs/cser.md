@@ -205,9 +205,9 @@ Linux 一种类 UNIX 操作系统。而我们使用的操作系统一般是 Wind
 
 * [MIT Missing Semester](https://missing.csail.mit.edu/2020/)  
     这门课程教授了许多计算机的实用工具，如 Shell, Vim, Git 等。其内容更多的是对工具及其基本语法进行介绍，笔者认为这门课更多的是给这些工具留下一个印象，在需要的时候再详细学习，在实践中熟悉功能。  
-    课程的中文主页：<https://missing-semester-cn.github.io/>，已被官方 收纳
+    课程的中文主页：<https://missing-semester-cn.github.io/>，已被官方收纳
 
-### 特别鸣谢
+## 特别鸣谢
 
 CS 自学指南的作者 PKUFlyingPig，文章许多部分参考了他的 CS 自学指南；  
 给我提供过帮助的学长学姐同学，感谢他们的建议
