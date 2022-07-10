@@ -12,7 +12,7 @@ counter: True
     以下是原文内容
 
 CS，即 Computer Science。众所周知，国内的计算机本科教育问题百出，其中在工具方面的介绍可以说是基本上没有记得。翁恺老师在第一节课说的：要逐渐让自己看上去、闻上去都像一个 CS 人，<del>比如买十件格子衬衫</del>
-<div align=center> <img src="https://s2.loli.net/2022/07/09/bTmxcFAXdHNgWS7.jpg" width = 45%/> </div>
+<div align=center> <img src="https://cdn.tonycrane.cc/turing2022/images/bTmxcFAXdHNgWS7.jpeg" width = 45%/> </div>
 于是在这里笔者抛砖引玉，简要介绍部分在笔者学习 CS 的过程中遇到的有用的工具，以提高诸位的灵活性和生产效率。
 
 ## 说在前面的话
@@ -47,7 +47,7 @@ CS，即 Computer Science。众所周知，国内的计算机本科教育问题�
 ### 信息获取
 
 * [**《提问的智慧》**](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)  
-  正如我校沟通技巧课课件所言：<div align=center> <img src="https://pic1.zhimg.com/80/v2-566c0540c037413964849ec7e13ce43f_1440w.jpg?source=c8b7c179" width = 50%/> </div>  
+  正如我校沟通技巧课课件所言：<div align=center> <img src="https://cdn.tonycrane.cc/turing2022/images/v2-566c0540c037413964849ec7e13ce43f_1440w.jpeg" width = 50%/> </div>  
   不止 CS，在各个领域里提问都是一项必备的技能。首先你要知道提问绝对不是解决问题的首选，因为从你提出问题到别人解答最后你自己解决是一个非常费时间的过程，这无疑会严重影响做事情的效率。你应该通过搜索等各种方式寻找自行解决的方法。如果依然无法解决，你才需要提问，并要正确、清晰地描述出问题。  
   强烈推荐有空时阅读《提问的智慧》这本书，这是作为一个 CSer 的基本素养。遇到问题时刻切记先 STFW、RTFM、RTFSC.
 
@@ -82,7 +82,7 @@ CS，即 Computer Science。众所周知，国内的计算机本科教育问题�
 * 首先要知道，Markdown 只是一种语法，因此任何能够打开纯文本的东西都能编辑 Markdown (如电脑上的记事本)。但是我们仍然需要专门的编辑器来提供预览功能，不然我们只能看到一些符号。常用的 Markdown 编辑器有 Typora (现在要收费，据说下载旧版本 0.11.18 仍然可以使用)，VSCode+Markdown Preview Enhanced 插件..    
 <del>当然强如笔者同学，也是可以随便拿个东西写然后颅内预览的</del> 
 
-<div align=center> <img src="https://s2.loli.net/2022/07/08/XHPWlzDfEo4CAvT.png"width = 40%/> </div>
+<div align=center> <img src="https://cdn.tonycrane.cc/turing2022/images/XHPWlzDfEo4CAvT.png"width = 40%/> </div>
 
 * Markdown 的具体语法其实是非常简单的，基本上知乎/Bilibili 随便搜一篇教程即可。如此类实践性的技能，只需要在最开始记住基本操作，在实践中不断深化，如果遇到问题再上网搜索即可。  
 这里贴出笔者同学的 Markdown 的 PPT，仅供参考  https://slides.tonycrane.cc/MarkdownLecture  
@@ -102,7 +102,7 @@ LaTeX (注意大小写)是为了作者可以更加专注地编写的内容，而
 本地 LaTeX 环境，笔者是借鉴了这篇文章 [Visual Studio Code (vscode)配置LaTeX - Ali-loner的文章 - 知乎](https://zhuanlan.zhihu.com/p/166523064)使自己的 VSCode 能够运行 LaTeX，至于其他如 TeXworks, TeXStudio 等编辑器，笔者无法给出具体经验，同学们可以自行上网搜索。
 * LaTeX 的具体语法笔者是通过 Overleaf 上的教程来学习的。链接如下 [part 1](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_1)), [part 2](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_2))，[part 3](https://www.overleaf.com/learn/latex/Free_online_introduction_to_LaTeX_(part_3)). 相对 Markdown 而言 LaTeX 的语法更多，需要更多的时间来熟悉。而且 Markdown 内是可以通过内 LaTeX 内嵌公式的 <https://www.learnlatex.org/en/>  
 这里再推荐一个网站 <https://texnique.xyz/>，可以利用这个网站熟悉数学符号的输入。
-* 如果你很懒，不想写 LaTeX <del>(比如笔者)</del>可以利用 GitHub 上 <https://github.com/Keldos-Li/typora-latex-theme>提供的主题，将你的 typora 伪装成 LaTeX <div align=center> <img src="https://github.com/Keldos-Li/typora-latex-theme/raw/main/Supplemental/cover.png" width = 100%/> </div>
+* 如果你很懒，不想写 LaTeX <del>(比如笔者)</del>可以利用 GitHub 上 <https://github.com/Keldos-Li/typora-latex-theme>提供的主题，将你的 typora 伪装成 LaTeX <div align=center> <img src="https://cdn.tonycrane.cc/turing2022/images/cover.png" width = 100%/> </div>
 
 ### 博客/笔记本  
 
