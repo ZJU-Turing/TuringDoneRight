@@ -22,5 +22,8 @@ home: true
 - [新生防诈骗指南](anti_fraud)
 - [暑假学习建议](summer_study)
 - [校网连接指南](rvpn)
+
+### 学业指导向
+- [如何让自己看上去、闻上去都像一个 CS 人](cser)
 <!-- - [通识课程经验（**WIP**）](general)
 - [回忆卷汇总（**WIP**）](old_exam) -->
