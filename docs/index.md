@@ -22,6 +22,7 @@ home: true
 - [新生防诈骗指南](anti_fraud)
 - [暑假学习建议](summer_study)
 - [校网连接指南](rvpn)
+- [身为浙大学生该如何获取信息](getinfo)
 
 ### 学业指导向
 - [如何让自己看上去、闻上去都像一个 CS 人](cser)
