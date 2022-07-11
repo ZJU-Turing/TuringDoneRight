@@ -15,7 +15,7 @@ counter: True
 <div class="file-icon"><img src="https://cdn.tonycrane.cc/turing2022/images/pdf.svg" style="height: 3em;"></div>
 <div class="file-body">
 <div class="file-title">2022 级新生防诈骗指南</div>
-<div class="file-meta">241 KB / 3 P / 2022-06-29</div>
+<div class="file-meta">241 KB / 3 P</div>
 </div>
 <a class="down-button" target="_blank" href="https://cdn.tonycrane.cc/turing2022/files/2022%E7%BA%A7%E6%96%B0%E7%94%9F%E9%98%B2%E8%AF%88%E9%AA%97%E6%8C%87%E5%8D%97.pdf" markdown="1">:fontawesome-solid-download: 下载</a>
 </div>
@@ -42,7 +42,7 @@ counter: True
 &emsp;&emsp;这种情况在校外比较普遍，尤其是在堕落街觅食的时候，可能会有一些人拿着便宜的小礼物（比如扇子等）让你扫一个二维码助力或者关注。这个时候千万不要贪小便宜，**直接拒绝说自己不需要**就好，因为你根本不会知道二维码的背后究竟是什么东西，或许在你扫描的瞬间你的个人信息就被盗取了
 
 ## 线上部分
-线上部分我们主要集中于电信诈骗，请牢记以下几种电信诈骗方式，并避免出现：
+&emsp;&emsp;线上部分我们主要集中于电信诈骗，请牢记以下几种电信诈骗方式，并避免出现：
 
 ### 冒充公检法诈骗
 &emsp;&emsp;诈骗分子冒充公检法工作人员拨打受害人电话，以受害人身份信息被盗用、涉嫌洗钱犯罪为由，要求将其资金转入所谓的“安全账户”配合调查

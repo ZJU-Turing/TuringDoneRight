@@ -16,8 +16,8 @@ counter: True
 <div class="card file-block" markdown="1">
 <div class="file-icon"><img src="https://cdn.tonycrane.cc/turing2022/images/pdf.svg" style="height: 3em;"></div>
 <div class="file-body">
-<div class="file-title">2022 级图灵班暑假自学建议</div>
-<div class="file-meta">276 KB / 2 P / 2022-06-25</div>
+<div class="file-title">2022 图灵班暑假自学建议</div>
+<div class="file-meta">276 KB / 2 P</div>
 </div>
 <a class="down-button" target="_blank" href="https://cdn.tonycrane.cc/turing2022/files/2022%E7%BA%A7%E6%9A%91%E5%81%87%E8%87%AA%E5%AD%A6%E5%BB%BA%E8%AE%AE.pdf" markdown="1">:fontawesome-solid-download: 下载</a>
 </div>
