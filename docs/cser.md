@@ -11,7 +11,7 @@ counter: True
 
     以下是原文内容
 
-CS，即 Computer Science。众所周知，国内的计算机本科教育问题百出，其中在工具方面的介绍可以说是基本上没有记得。翁恺老师在第一节课说的：要逐渐让自己看上去、闻上去都像一个 CS 人，<del>比如买十件格子衬衫</del>
+CS，即 Computer Science。众所周知，国内的计算机本科教育问题百出，其中在工具方面的介绍可以说是基本上没有。翁恺老师在第一节课说的：要逐渐让自己看上去、闻上去都像一个 CS 人，<del>比如买十件格子衬衫</del>
 <div align=center> <img src="https://cdn.tonycrane.cc/turing2022/images/bTmxcFAXdHNgWS7.jpeg" width = 45%/> </div>
 于是在这里笔者抛砖引玉，简要介绍部分在笔者学习 CS 的过程中遇到的有用的工具，以提高诸位的灵活性和生产效率。
 
