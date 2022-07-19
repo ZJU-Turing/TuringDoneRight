@@ -17,6 +17,7 @@ home: true
 ## Table of Contents
 ### 新生入学向
 
+- [新生入学流程](checkin)
 - [**学长组 Q&A 总结**](qa)
 - [暑假购机推荐](machine)
 - [新生防诈骗指南](anti_fraud)
