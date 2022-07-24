@@ -7,7 +7,7 @@ counter: True
 !!! abstract "前言"
     本文转载自学长组 QJJ 同学的 CC98 帖子——[谈谈如何让自己看上去、闻上去都像一个CS人](https://www.cc98.org/topic/5370849)  
     （其实就是为你们写的，然后随手发了个 98 就上了十大）  
-    博客原文链接：[如何让自己看上去、闻起来都像一个CS人](https://blog.hobbitqia.cc/posts/53556.html)
+    博客原文链接：[如何让自己看上去、闻起来都像一个CS人]([https://blog.hobbitqia.cc/posts/53556.html](https://hobbitqia.github.io/p/5948019b.html))
 
     以下是原文内容
 
