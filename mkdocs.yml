@@ -97,6 +97,13 @@ nav:
   - 校网连接指南: rvpn.md
   - 大学生如何获取信息: getinfo.md
   - 图灵班选课指南: course_selection.md
+  # - 通识选修课经验: general.md
+  # - 图灵班课程学习建议:
+  #   - courses/index.md
+  #   - 数学分析（甲）Ⅰ、Ⅱ（H）: courses/math_analysis.md
+  #   - 线性代数 Ⅰ（H）: courses/linear_algebra.md
+  #   - 程序设计与算法基础: courses/programming.md
+  #   - 思想道德与法治: courses/morality_law.md
+  #   - 形势与政策 Ⅰ、Ⅱ: courses/situation_policy.md
   - 成为一个合格的 CS 人: cser.md
-  # - 通识经验: general.md
   # - 回忆卷: old_exam.md
