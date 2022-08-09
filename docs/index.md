@@ -20,14 +20,14 @@ home: true
 - [新生入学流程](checkin)
 - [**学长组 Q&A 总结**](qa)
 - [暑假购机推荐](machine)
-- [新生防诈骗指南](anti_fraud)
+- [**新生防诈骗指南**](anti_fraud)
 - [暑假学习建议](summer_study)
 - [校网连接指南](rvpn)
-- [身为浙大学生该如何获取信息](getinfo)
+- [**身为浙大学生该如何获取信息**](getinfo)
 
 ### 学业指导向
 - [🔗 2021 级图灵班书籍转送统计](https://docs.qq.com/sheet/DT1NMbEJqWmpZbldt)（外部链接，腾讯共享文档）
-- [图灵班选课指南](course_selection)
+- [**图灵班选课指南**](course_selection)
 - [如何让自己看上去、闻上去都像一个 CS 人](cser)
 <!-- - [通识课程经验（**WIP**）](general)
 - [回忆卷汇总（**WIP**）](old_exam) -->
