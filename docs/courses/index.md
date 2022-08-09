@@ -7,6 +7,17 @@ counter: True
 !!! abstract
     由 20 级学长们编写的课程学习建议修缮而来。对于大一的课程学习有很大帮助，建议仔细阅读
 
+本文打印版：
+
+<div class="card file-block" markdown="1">
+<div class="file-icon"><img src="https://cdn.tonycrane.cc/turing2022/images/pdf.svg" style="height: 3em;"></div>
+<div class="file-body">
+<div class="file-title">图灵大一秋冬课程学习建议</div>
+<div class="file-meta">827.8 KB / 12 P</div>
+</div>
+<a class="down-button" target="_blank" href="https://cdn.tonycrane.cc/turing2022/files/2022%E7%BA%A7%E5%9B%BE%E7%81%B5%E7%8F%AD%E5%A4%A7%E4%B8%80%E7%A7%8B%E5%86%AC%E8%AF%BE%E7%A8%8B%E5%AD%A6%E4%B9%A0%E5%BB%BA%E8%AE%AE.pdf" markdown="1">:fontawesome-solid-download: 下载</a>
+</div>
+
 ## 前言
 &emsp;&emsp;为了便于大家适应高中学习与大学学习的不同，并且帮助大家较为顺利地学到所需的知识，得到理想的成绩，我们准备了这一秋冬学期课程学习建议。这份资料可以从学期开始前熟悉到学期开始时寻求建议到考前复习都有作用。我们对所有课程学习都给出了参考书籍、选老师的建议，并且根据不同同学的需求（通过考试或者有更高目标等）给出了建议。
 
