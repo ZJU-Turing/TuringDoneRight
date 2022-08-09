@@ -57,10 +57,9 @@ counter: True
 - [数学分析（甲）Ⅰ（H）/ <abbr title="大一春夏课程">数学分析（甲）Ⅱ（H）</abbr>](math_analysis)
 - [线性代数 Ⅰ（H）](linear_algebra)
 - [程序设计与算法基础](programming)
-- 中国近现代史纲要（H）
+- [中国近现代史纲要（H）](modern_history)
 - [思想道德与法治](morality_law)
 - [形势与政策 Ⅰ](situation_policy)
-
 ## 补充及注意事项
 ### 其它选修/思政课程
 - 关于四史、创新创业、跨专业、外语的具体课程经验见 [通识选修课经验 > 其它选修课](general/#_107)，这些课的介绍在本页下面有补充
