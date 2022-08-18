@@ -28,6 +28,7 @@ home: true
 ### 学业指导向
 - [🔗 2021 级图灵班书籍转送统计](https://docs.qq.com/sheet/DT1NMbEJqWmpZbldt)（外部链接，腾讯共享文档）
 - [**图灵班选课指南**](course_selection)
+- [图灵班课程学习建议](courses)
+- [通识课程经验](general)
 - [如何让自己看上去、闻上去都像一个 CS 人](cser)
-<!-- - [通识课程经验（**WIP**）](general)
-- [回忆卷汇总（**WIP**）](old_exam) -->
+<!-- - [回忆卷汇总（**WIP**）](old_exam) -->
