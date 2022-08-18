@@ -116,7 +116,8 @@ counter: True
 
 &emsp;&emsp;而对于每一门课程绩点的计算，浙大现在基本采用百分制与五级制（详见下图）。大部分课程都是采用百分制（也就是所谓的三分一档），通识核心课程采用的是五级制（永远的痛）。目前所有课程都会限制优秀率，也就是 90 分及以上的人数最多 30%（所以有些善良的老师可能会在 89 堆很多同学，因为 89 与 90 一样绩点都是 4.5 且不占优秀率）。对于限制优秀率，大家务必摆正心态，同时做好进行残酷竞争心理准备
 
-![](https://cdn.tonycrane.cc/turing2022/images/grade.png)
+![](https://cdn.tonycrane.cc/turing2022/images/grade_light.png#only-light)
+![](https://cdn.tonycrane.cc/turing2022/images/grade_dark.png#only-dark)
 
 &emsp;&emsp;关于绩点一些常见“黑话”：
 
