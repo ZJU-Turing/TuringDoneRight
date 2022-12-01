@@ -1,7 +1,3 @@
----
-password: turing2022
----
-
 # 部分课程回忆卷
 
 !!! warning
