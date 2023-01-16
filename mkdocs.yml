@@ -105,6 +105,12 @@ nav:
     - 中国近现代史纲要（H）: courses/modern_history.md
     - 思想道德与法治: courses/morality_law.md
     - 形势与政策 Ⅰ、Ⅱ: courses/situation_policy.md
+    - 普通物理学 Ⅰ、Ⅱ（H）: courses/physics.md
+    - 普通物理学实验 Ⅰ、Ⅱ: courses/physics_experiment.md
+    - 离散数学理论基础: courses/discrete_math.md
+    - 汇编语言: courses/assemble.md
+    - 计算机系统 Ⅰ: courses/computer_system.md
+    - 常微分方程: courses/ode.md
   - 通识选修课经验: general.md
   - 成为一个合格的 CS 人: cser.md
   - 回忆卷: exam.md

@@ -63,7 +63,6 @@ counter: True
 ## 课程学习建议
 由于每门课的建议篇幅都不小，所以分成子页面来具体介绍某一门课
 
-目前只有大一秋冬的部分课程建议，春夏的部分敬请期待
 ### 大一秋冬
 - [数学分析（甲）Ⅰ（H）/ <abbr title="大一春夏课程">数学分析（甲）Ⅱ（H）</abbr>](math_analysis)
 - [线性代数 Ⅰ（H）](linear_algebra)
@@ -71,6 +70,15 @@ counter: True
 - [中国近现代史纲要（H）](modern_history)
 - [思想道德与法治](morality_law)
 - [形势与政策 Ⅰ](situation_policy)
+
+### 大一春夏等
+- [普通物理学 Ⅰ（H）/ <abbr title="大二秋冬课程">普通物理学 Ⅱ（H）</abbr>](physics/)
+- [普通物理学实验 Ⅰ / 普通物理学实验 Ⅱ](physics_experiment/)
+- [离散数学理论基础](discrete_math/)
+- [汇编语言](assemble/)
+- [计算机系统 Ⅰ](computer_system/)
+- [<abbr title="选修课程">常微分方程</abbr>](ode/)
+
 ## 补充及注意事项
 ### 其它选修/思政课程
 - 关于四史、创新创业、跨专业、外语的具体课程经验见 [通识选修课经验 > 其它选修课](general/#_107)，这些课的介绍在本页下面有补充
