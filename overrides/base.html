@@ -103,13 +103,11 @@
         {% endif %}
       </div>
       <div data-md-component="announce">
-        {% if self.announce() %}
           <aside class="md-banner">
             <div class="md-banner__inner md-grid md-typeset">
               {% block announce %}{% include "announce.html" ignore missing %}{% endblock %}
             </div>
           </aside>
-        {% endif %}
       </div>
       {% if config.extra.version %}
         <div data-md-component="outdated" hidden>
