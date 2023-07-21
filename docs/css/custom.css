@@ -1,5 +1,6 @@
 :root {
   --md-text-font: "JetBrains Mono", "LXGW WenKai Screen"; 
+  --md-code-font: "JetBrains Mono";
 }
 
 /* p, li {
@@ -137,6 +138,7 @@ input#mkdocs-content-password {
 .md-typeset .admonition.general,
 .md-typeset details.general {
   border-color: rgb(0, 63, 136, 0);
+  background-color: hsla(var(--md-hue),0%,100%,0.025);
 }
 .md-typeset .general > .admonition-title,
 .md-typeset .general > summary {
