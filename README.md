@@ -4,15 +4,13 @@
 
 ## 本地构建
 
-- 安装 mkdocs 及 material 主题
+- 安装依赖
     ```sh
-    $ pip install mkdocs
-    $ pip install mkdocs-material  # 新版应该没问题了（？
-    $ pip install mkdocs-encryptcontent-plugin
+    $ pip install -r requirements.txt
     ```
 - 开启本地预览服务
     ```sh
-    $ mkdocs serve # serve at localhost:8000
+    $ mkdocs serve # Serving on http://127.0.0.1:8000/
     ```
 
 ## 修改发布
