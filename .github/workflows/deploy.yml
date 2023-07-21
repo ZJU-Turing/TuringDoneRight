@@ -26,3 +26,4 @@ jobs:
           port: ${{ secrets.PORT }}
           source: "site/*"
           target: "/www/wwwroot/turing2023.tonycrane.cc"
+          strip_components: 1
