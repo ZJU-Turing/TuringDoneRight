@@ -1,6 +1,8 @@
 {% set class = "md-header" %}
 {% if "navigation.tabs.sticky" in features %}
   {% set class = class ~ " md-header--lifted" %}
+{% elif "navigation.tabs" not in features %}
+  {% set class = class ~ " md-header--shadow" %}
 {% endif %}
 <header class="{{ class }}" data-md-component="header">
   <nav class="md-header__inner md-grid" aria-label="{{ lang.t('header.title') }}">
@@ -64,7 +66,7 @@
           </a>
       </div>
     </div>
-    {% if "search" in config["plugins"] %}
+    {% if "material/search" in config.plugins %}
       <label class="md-header__button md-icon" for="__search">
         {% include ".icons/material/magnify.svg" %}
       </label>
