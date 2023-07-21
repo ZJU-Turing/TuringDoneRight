@@ -25,5 +25,5 @@ jobs:
           password: ${{ secrets.PASSWORD }}
           port: ${{ secrets.PORT }}
           source: "site/*"
-          target: "/www/wwwroot/turing2023.tonycrane.cc"
+          target: ${{ secrets.SCP_TARGET }}
           strip_components: 1
