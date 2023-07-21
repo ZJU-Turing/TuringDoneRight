@@ -16,6 +16,8 @@ theme:
     # - navigation.tabs
     - navigation.indexes
     - navigation.top
+    - search.highlight
+    - search.suggest
   font:
     text: JetBrains Mono
     code: JetBrains Mono
@@ -100,7 +102,7 @@ nav:
   - 图灵班课程学习建议:
     - courses/index.md
     - 数学分析（甲）Ⅰ、Ⅱ（H）: courses/math_analysis.md
-    - 线性代数 Ⅰ（H）: courses/linear_algebra.md
+    - 线性代数 Ⅰ、Ⅱ（H）: courses/linear_algebra.md
     - 程序设计与算法基础: courses/programming.md
     - 中国近现代史纲要（H）: courses/modern_history.md
     - 思想道德与法治: courses/morality_law.md
