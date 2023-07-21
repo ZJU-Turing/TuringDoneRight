@@ -2,7 +2,7 @@
 counter: True
 ---
 
-# 暑假防内卷指南
+# 暑假学习建议
 
 <div style="text-align: center; font-size: 1rem;"><strong><del>暑假别卷了，算我求你了</del></strong></div>
 
