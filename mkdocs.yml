@@ -1,7 +1,10 @@
 site_name: 图灵 2023 学长组资料汇总
 site_url: https://turing2023.tonycrane.cc/
 site_description: 图灵 2023 学长组信息汇总
-copyright: Copyright &copy; 2023 浙江大学图灵班学长组
+repo_name: TuringDoneRight
+repo_url: https://github.com/ZJU-Turing/TuringDoneRight/
+edit_uri: tree/master/docs
+copyright: Copyright &copy; 2022-2023 浙江大学图灵班学长组
 
 theme: 
   name: 'material'
@@ -78,6 +81,9 @@ extra_javascript:
 
 plugins:
   - search
+  - heti:
+      extra_skipped_class:
+        - arithmatex
   # - encryptcontent:  # now just for one page, need to be improved
   #     title_prefix: ""
   #     summary: '这个页面被加密叻(･･;)'

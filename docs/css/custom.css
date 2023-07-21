@@ -44,7 +44,7 @@ html .md-footer-meta.md-typeset a:is(:focus,:hover) {
   --md-code-bg-color: #fafafa;
 }
 
-[data-md-color-scheme="slate"] {
+[data-md-color-scheme="slate"][data-md-color-primary="indigo"] {
   --md-default-bg-color: #161616;
   --md-default-bg-color--light: #161616;
   --md-default-bg-color--lighter: #161616;
@@ -215,4 +215,8 @@ input#mkdocs-content-password {
   height: 100%;
   left: 0;
   top: 0;
+}
+
+.md-nav__title {
+  color: inherit;
 }

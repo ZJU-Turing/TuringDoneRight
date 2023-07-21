@@ -1,4 +1,4 @@
-name: Deploy to personal server
+name: deploy
 
 on:
   workflow_dispatch:
