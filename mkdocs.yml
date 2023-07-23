@@ -101,21 +101,21 @@ nav:
   - 新生防诈骗指南: anti_fraud.md
   - 暑假学习建议: summer_study.md
   - 校网连接指南: rvpn.md
-  - 大学生如何获取信息: getinfo.md
-  - 图灵班选课指南: course_selection.md
-  - 图灵班课程学习建议:
-    - courses/index.md
-    - 数学分析（甲）Ⅰ、Ⅱ（H）: courses/math_analysis.md
-    - 线性代数 Ⅰ、Ⅱ（H）: courses/linear_algebra.md
-    - 程序设计与算法基础: courses/programming.md
-    - 中国近现代史纲要（H）: courses/modern_history.md
-    - 思想道德与法治: courses/morality_law.md
-    - 形势与政策 Ⅰ、Ⅱ: courses/situation_policy.md
-    - 普通物理学 Ⅰ、Ⅱ（H）: courses/physics.md
-    - 普通物理学实验 Ⅰ、Ⅱ: courses/physics_experiment.md
-    - 离散数学理论基础: courses/discrete_math.md
-    - 汇编语言: courses/assemble.md
-    - 计算机系统 Ⅰ: courses/computer_system.md
-    - 常微分方程: courses/ode.md
-  - 通识选修课经验: general.md
+  - 如何获取信息: getinfo.md
+  # - 图灵班选课指南: course_selection.md
+  # - 图灵班课程学习建议:
+  #   - courses/index.md
+  #   - 数学分析（甲）Ⅰ、Ⅱ（H）: courses/math_analysis.md
+  #   - 线性代数 Ⅰ、Ⅱ（H）: courses/linear_algebra.md
+  #   - 程序设计与算法基础: courses/programming.md
+  #   - 中国近现代史纲要（H）: courses/modern_history.md
+  #   - 思想道德与法治: courses/morality_law.md
+  #   - 形势与政策 Ⅰ、Ⅱ: courses/situation_policy.md
+  #   - 普通物理学 Ⅰ、Ⅱ（H）: courses/physics.md
+  #   - 普通物理学实验 Ⅰ、Ⅱ: courses/physics_experiment.md
+  #   - 离散数学理论基础: courses/discrete_math.md
+  #   - 汇编语言: courses/assemble.md
+  #   - 计算机系统 Ⅰ: courses/computer_system.md
+  #   - 常微分方程: courses/ode.md
+  # - 通识选修课经验: general.md
   - 成为一个合格的 CS 人: cser.md
