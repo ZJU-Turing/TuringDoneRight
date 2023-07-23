@@ -22,9 +22,9 @@ counter: True
     尽管烂，但是说实话，~~校园网还是挺难用的（×）~~。
     下面介绍几种常见的上校园网的方法。  
 
-    **但是注意 在看以下内容之前建议先浏览 Q&A 中 “[Q：如何办理校园网络？如何选择校园网络套餐？](/qa/#q_10)” 部分内容。**  
+    **但是注意 在看以下内容之前建议先浏览 Q&A 中 “[Q：如何办理校园网络？如何选择校园网络套餐？](/qa/#q_9)” 部分内容。**  
     
-    还是一样啦，不确保下面的内容完全正确。如果有谬误欢迎指正呐
+    还是一样啦，不确保下面的内容完全正确。如果有谬误欢迎指正呐~
 
 ## 利用校园无线网
 
@@ -39,7 +39,7 @@ counter: True
 
 ### 通过连接时验证 ZJUWLAN-Secure
 
-这个所谓的安全，应该是指这个网络使用了 802.1x EAP 的加密类型。下面分两个主流平台介绍连接方式
+这个所谓的安全，应该是指这个网络使用了 802.1x EAP 的加密类型。下面分两个主流平台介绍连接方式：
 
 === "Windows"  
     在 Windows 下，点击桌面右下方菜单栏的无线网图标，选择 ZJUWLAN-Secure 进行连接，之后像网页认证一样输入浙大通行证即可
@@ -69,17 +69,11 @@ counter: True
 ## 有线连接  
 
 宿舍里面有一个网口，用网线怼到电脑上，就可以开始有线连接的奇妙之旅了（×）  
-由于实在比较麻烦，且可能影响其他的 VPN，所以不是特别推荐
-
-<hr>
+由于实在比较麻烦，且可能影响其他的 VPN，所以不是特别推荐。
 
 ![](https://cdn.tonycrane.cc/turing2022/images/buyao.png)  
 
-对不起，润了润了  
-
-<hr>
-
-又回来了。简单放些 Windows 10 上面的过程吧，按需求使用
+在这里简单放些 Windows 10 上面的过程，按需求使用。
 
 ??? general "操作步骤"  
     === "Step 1"  
@@ -121,17 +115,19 @@ counter: True
 
 ## VPN 连接校网  
 
-对于不在校内但是想要访问校内资源的情况，可以采用学校提供的 VPN 服务  
+对于不在校内但是想要访问校内资源的情况，可以采用学校提供的 VPN 服务。
 
 ### RVPN  
 
-浙大提供的[使用 rvpn 的方法](https://zuits.zju.edu.cn/12084/listm.htm)是通过 EasyConnect 软件进行连接。但是这个软件很脏、比较“流氓”，所以不建议使用
+浙大提供的使用 rvpn 的方法是通过 EasyConnect 软件进行连接。但是这个软件很脏、比较“流氓”，所以不建议使用。
 
-如果要使用 rvpn 来连接校网的话，可以参考 [:material-github: SoraShu/easyconn-socks5-for-HITsz](https://github.com/SoraShu/easyconn-socks5-for-HITsz) 来搭建一个隔离的 EasyConnect 环境提供代理服务（亲测可用）
+如果要使用 rvpn 来连接校网的话，可以参考 [:material-github: SoraShu/easyconn-socks5-for-HITsz](https://github.com/SoraShu/easyconn-socks5-for-HITsz) 来搭建一个隔离的 EasyConnect 环境提供代理服务（亲测可用）。
+
+此外，还可以使用今年新开发的一个项目 ZJU Connect（[:material-github: Mythologyli/zju-connect](https://github.com/Mythologyli/zju-connect)）。这个软件在 Windows 系统还有方便操作、比较适合小白的 GUI 版本（[:material-github: Mythologyli/zju-connect-for-Windows](https://github.com/Mythologyli/zju-connect-for-Windows)），可以连接校内的 SSH 与远程桌面，以及提供了 ZJU rule 等功能，非常推荐使用。附上[开发者在 CC98 上发的帖子](https://www.cc98.org/topic/5521873)（~~虽然没有 rvpn 大概也看不了~~）。
 
 ### WebVPN  
 
-通过 [webvpn.zju.edu.cn](https://webvpn.zju.edu.cn) 来访问  
+通过 [webvpn.zju.edu.cn](https://webvpn.zju.edu.cn) 来访问  。
 
 ## 一些说明  
 
@@ -151,22 +147,22 @@ counter: True
 |30|50|
 |50|100|
 
-<b>但是</b> 10 元/月的套餐连接 ZJUWLAN-Secure、ZJUWLAN-NEW 可以 ~~白嫖~~ 30 Mbps 的带宽，~~可以满足一般来说的需求了~~   
+<b>但是</b> 10 元/月的套餐连接 ZJUWLAN-Secure、ZJUWLAN-NEW 可以 ~~白嫖~~ 30 Mbps 的带宽，~~可以满足一般来说的需求了~~。   
 
 ### 关于网络稳定性  
 
-ZJUWLAN-Secure 不算特别稳定，有时候会断连。ZJUWLAN-NEW 覆盖面不算广。有线连接极其不稳定  
+ZJUWLAN-Secure 不算特别稳定，有时候会断连。ZJUWLAN-NEW 覆盖面不算广。有线连接极其不稳定。  
 
 ### 关于网络运营商  
 
-这个不好说，有时候是 移动 有时候是 电信。如果使用 Parsec 进行远程桌面连接的话注意 移动 网络无法使用 Parsec  
+这个不好说，有时候是 移动 有时候是 电信。如果使用 Parsec 进行远程桌面连接的话注意 移动 网络无法使用 Parsec。  
 
 ### 关于 IPv6  
 
-除了 ZJUWLAN 没有 IPv6 地址之外，另外 两个无线网络连接 和 有线连接 均会分配 IPv6 地址。有需求的话可以注意一下  
-此外，有线上网的时候 IPv6 带宽不限速，大概有 300 ~ 500 Mbps，可以拿来用一些稀奇古怪的方法利用这带宽（×）  
+除了 ZJUWLAN 没有 IPv6 地址之外，另外 两个无线网络连接 和 有线连接 均会分配 IPv6 地址。有需求的话可以注意一下。  
+此外，有线上网的时候 IPv6 带宽不限速，大概有 300 ~ 500 Mbps，可以拿来用一些稀奇古怪的方法利用这带宽（×）。  
 
 ### 关于路由器上网  
 
-宿舍内的网线接口可以拿来给路由器上网。上面教程内时常出现 yusuxuans(_5G) 就是我的路由器（逃）  
-如果没有什么特别的需求，配置不算特别困难。参考 CC98（校内论坛，需要用内网访问）上的[帖子](https://www.cc98.org/topic/5213173)应该可以完成。需要用内网访问  
+宿舍内的网线接口可以拿来给路由器上网。上面教程内时常出现 yusuxuans(_5G) 就是我的路由器（逃）。  
+如果没有什么特别的需求，配置不算特别困难。参考 CC98（校内论坛，需要用内网访问）上的[帖子](https://www.cc98.org/topic/5213173)应该可以完成。需要用内网访问。  
