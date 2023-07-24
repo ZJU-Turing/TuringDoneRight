@@ -27,7 +27,7 @@ counter: True
 ### 线性代数
 前排提示不要看同济大学的紫皮线性代数，跳过这个雷之后，建议自己借或者买一本线代的教材（《大学数学：代数与几何》）看看，我们的教材说不上特别好，但是对于自学来说足够详细和严谨。学长的笔记：[线代Ⅰ笔记](https://github.com/Intelligent-BOT/hello-world/blob/main/ZJU%E8%B5%84%E6%96%99/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.pdf)和[备用链接](https://zhuanlan.zhihu.com/p/450971993)。
 
-此外，图灵 2020 级的吴一航<del>学祖</del>的“线性代数荣誉课辅学讲义“[:material-github: yhwu-is/Linear-Algebra-for-ZJUCKC](https://github.com/yhwu-is/Linear-Algebra-for-ZJUCKC)目前还在编写中，但也可以看看前面几讲内容，从而对线性代数未竟之美有一个初步的认知（确信）。
+此外，图灵 2020 级的吴一航<del>学祖</del>的“线性代数荣誉课辅学讲义“ [:material-github:yhwu-is/Linear-Algebra-for-ZJUCKC](https://github.com/yhwu-is/Linear-Algebra-for-ZJUCKC)目前还在编写中，但也可以看看前面几讲内容，从而对线性代数未竟之美有一个初步的认知（确信）。
 
 当然，数分和线代都是自己看看就好，“你们暑假自学一个假期的东西有可能是开学后一节课讲的，所以看了用处也不大”。
 
@@ -50,7 +50,7 @@ counter: True
 此外，在这里推荐一下你们的学爷 TonyCrane 的[“实用技能拾遗”课程](https://slides.tonycrane.cc/PracticalSkillsTutorial/)，介绍了一系列好用、常用的工具，以及相关的使用教程（包括上面提及的 markdown、LaTeX 等），B 站上也有相应的回放（关注 [@鹤翔万里](https://space.bilibili.com/171431343)谢谢喵~）。
 
 ### 对于有计算机基础的前 OIer
-你们肯定是有比较扎实的 C 语言基础了，但是经过了一个高三，可能会有些遗忘，可以自己捡一捡，如果能力比较强、基础比较扎实的，可以选择在大一秋冬学期的时候就选大二秋冬学期要学的数据结构基础（也就是和我们一起），其内容大概就是线性结构、简单树/图之类的（反正我大一没学是后悔了）。
+你们肯定是有比较扎实的 C 语言基础了，但是经过了一个高三，可能会有些遗忘，可以自己捡一捡。
 
 另外，对于上面我说到的提问的智慧、命令行、markdown、LaTeX 之类的如果你不会的话（真的有 OIer 不会这些吗，不会吧不会吧），还是建议你去学一学。
 

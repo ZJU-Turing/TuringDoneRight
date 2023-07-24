@@ -18,6 +18,7 @@ theme:
     - navigation.tracking
     # - navigation.tabs
     - navigation.indexes
+    - navigation.footer
     - navigation.top
     - search.highlight
     - search.suggest
@@ -82,16 +83,6 @@ plugins:
   - heti:
       extra_skipped_class:
         - arithmatex
-  # - encryptcontent:  # now just for one page, need to be improved
-  #     title_prefix: ""
-  #     summary: '这个页面被加密叻(･･;)'
-  #     placeholder: '在此输入密码     '
-  #     decryption_failure_message: '密码错误'
-  #     encryption_info_message: '请输入密码查看本篇文章（请联系我）'
-  #     remember_password: True 
-  #     default_expire_dalay: 24
-  #     encrypted_something:
-  #       mkdocs-encrypted-toc: [nav, class]
 
 nav:
   - 主页: index.md
