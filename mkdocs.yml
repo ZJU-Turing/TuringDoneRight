@@ -83,6 +83,7 @@ plugins:
   - heti:
       extra_skipped_class:
         - arithmatex
+  - statistics
 
 nav:
   - 主页: index.md

@@ -2,6 +2,7 @@
 hide:
     - date
 home: true
+nostatistics: true
 ---
 
 # o(〃'▽'〃)o Hi!
