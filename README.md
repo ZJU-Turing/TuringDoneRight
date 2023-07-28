@@ -1,6 +1,7 @@
 # 图灵 2023 级学长组资料汇总网站
 
 [![](https://github.com/ZJU-Turing/TuringDoneRight/actions/workflows/deploy.yml/badge.svg)](https://turing2023.tonycrane.cc/)
+[![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 > **Warning** 正在建设中
 
