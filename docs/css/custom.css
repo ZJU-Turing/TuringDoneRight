@@ -222,3 +222,11 @@ input#mkdocs-content-password {
 .md-nav__title {
   color: inherit;
 }
+
+[dir=ltr] .md-typeset ol {
+  margin-left: 1.25em;
+}
+
+.md-typeset .emojione, .md-typeset .gemoji, .md-typeset .twemoji {
+  vertical-align: sub;
+}
