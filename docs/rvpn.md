@@ -55,7 +55,7 @@ counter: True
             ![](https://cdn.tonycrane.cc/turing2022/images/ZJUWLAN-Secure-Windows-2.png)  
 
 === "Android"  
-    由于我实在没有 iPhone 所以只能以安卓做演示。iPhone 用户可移步百度。本当にすみません！接下来以 Magic UI 6.0 进行演示，其他操作系统大同小异<font class="heimu" title="大概...?" size=1>大概...?</font>
+    由于我实在没有 iPhone 所以只能以安卓做演示。iPhone 用户可移步百度。本当にすみません！接下来以 Magic UI 6.0 进行演示，其他操作系统大同小异<font class="heimu" title="大概……？" size=1>大概……？</font>
 
     ??? general "操作步骤"  
         === "Step 1"  
