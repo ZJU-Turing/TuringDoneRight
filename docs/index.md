@@ -33,6 +33,7 @@ nostatistics: true
 - [校园生活指南](living)
 
 ### 学业指导向
-<!-- - [**图灵班选课指南**](course_selection) -->
+- [**图灵班选课指南**](course_selection)
 - [图灵班课程学习建议](courses)
+- [通识课程经验](general)
 - [如何让自己看上去、闻上去都像一个 CS 人](cser)
