@@ -4,6 +4,9 @@ counter: True
 
 # 暑假学习建议
 
+!!! Danger "WIP"
+    有待更新。
+
 <div style="text-align: center; font-size: 1rem;"><strong><del>暑假别卷了，算我求你了</del></strong></div>
 
 !!! abstract

@@ -4,6 +4,9 @@ fold_toc: True
 
 # 学长组 Q&A 总结
 
+!!! Danger "WIP"
+    有待更新。
+
 !!! abstract
     从 2021 级学长组继承至今，每年持续更新，可能会有点乱，大家见谅 qwq。
 

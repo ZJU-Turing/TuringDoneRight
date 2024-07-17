@@ -4,6 +4,9 @@ counter: True
 
 # 图灵班选课指南
 
+!!! Danger "WIP"
+    有待更新。
+
 !!! abstract
     本文由 23 学长组<span class="heimu" title="你知道的太多了">诚邀学祖</span>编写，综合了去年的指南，介绍了和选课相关的必要知识以及选课方法。
 

@@ -5,6 +5,9 @@ fold_toc: True
 
 # 暑假购机推荐
 
+!!! Danger "WIP"
+    有待更新。
+
 !!! abstract "前言"
     本文是今年的学长组倾情出品的购机推荐，浙江大学 E 志者协会也有详细的推文，也可以看看捏~
     链接：[购机指南（上）](https://mp.weixin.qq.com/s?__biz=MjM5OTk0NTg3Mg==&mid=2649490740&idx=1&sn=f78e4561ff8970c6740b365a7afb0077&chksm=bf2b16cb885c9fdd0116b6e5179613597349e97315619883e8c547498641542d51480fadebc1&mpshare=1&scene=23&srcid=0722Yyanu0xWOtsAOf0iBYrs&sharer_sharetime=1690004595739&sharer_shareid=3a64976b19f44123f2bb5791daa4d7d7#rd)、[购机指南（下）](https://mp.weixin.qq.com/s?__biz=MjM5OTk0NTg3Mg==&mid=2649490763&idx=1&sn=3b9a5b8ca64d7109b9a88bb589dc4951&chksm=bf2b16b4885c9fa266c2956e5c725238edf9d8e5ba75b5f1ba0ed4a5a622bc978cbc75183c41&mpshare=1&scene=23&srcid=0723zXBvl228g3oYuMHSQUW4&sharer_sharetime=1690087992600&sharer_shareid=9a8fc97c04156d2bd1dba5aa9e409f5b#rd)。

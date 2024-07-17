@@ -1,6 +1,6 @@
-# 图灵 2023 级学长组资料汇总网站
+# 图灵 2024 级学长组资料汇总网站
 
-[![](https://github.com/ZJU-Turing/TuringDoneRight/actions/workflows/deploy.yml/badge.svg)](https://turing2023.tonycrane.cc/)
+[![](https://github.com/ZJU-Turing/TuringDoneRight/actions/workflows/deploy.yml/badge.svg)](https://turing2024.tonycrane.cc/)
 
 > **Warning** 正在建设中
 
@@ -17,9 +17,13 @@
 
 ## 修改发布
 
-2023 年版通过 GitHub Action 自动构建并部署到 TonyCrane 的个人服务器上。
+TODO
+
+<!-- 2023 年版通过 GitHub Action 自动构建并部署到 TonyCrane 的个人服务器上。 -->
 
 ## 历年版本
+
+TODO
 
 - 2022 年：[`2022`](https://github.com/ZJU-Turing/TuringDoneRight/tree/2022) [turing2022.tonycrane.cc](https://turing2022.tonycrane.cc/)
 
