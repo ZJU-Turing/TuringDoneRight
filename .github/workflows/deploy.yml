@@ -1,29 +1,53 @@
 name: deploy
 
 on:
-  workflow_dispatch:
   push:
-    branches:
-      - master 
+    branches: ["main"]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout
+        uses: actions/checkout@v3
+      - name: Setup Pages
+        uses: actions/configure-pages@v5
+      - name: Setup Python
+        uses: actions/setup-python@v4
         with:
-          fetch-depth: 0
-      - uses: actions/setup-python@v4
-        with:
-          python-version: 3.x
-      - run: pip install -r requirements.txt
-      - run: mkdocs build
-      - uses: appleboy/scp-action@v0.1.4
-        with:
-          host: ${{ secrets.HOST }}
-          username: ${{ secrets.USERNAME }}
-          password: ${{ secrets.PASSWORD }}
-          port: ${{ secrets.PORT }}
-          source: "site/*"
-          target: ${{ secrets.SCP_TARGET }}
-          strip_components: 1
+          python-version: '3.x'
+      - name: Install yamllint
+        run: pip install yamllint
+      - name: Check MkDocs YAML configuration
+        run: yamllint ./mkdocs.yml
+        continue-on-error: true
+      - name: Install required packages
+        # run: pip install mkdocs-material mkdocs-macros-plugin pymdown-extensions mkdocs-material-extensions mkdocs-statistics-plugin neoteroi-mkdocs
+        run: pip install -r requirements.txt
+      - name: Build site
+        run: mkdocs build --config-file ./mkdocs.yml --site-dir ./_site
+        env:
+          CI: true
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+
+  # Deployment job
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    needs: build
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
