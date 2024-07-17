@@ -1,4 +1,4 @@
-name: deploy
+name: Dev GitHub-Pages Preview
 
 on:
   push:
@@ -19,28 +19,23 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
       - name: Setup Pages
         uses: actions/configure-pages@v5
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
           python-version: '3.x'
-      - name: Install yamllint
-        run: pip install yamllint
-      - name: Check MkDocs YAML configuration
-        run: yamllint ./mkdocs.yml
-        continue-on-error: true
       - name: Install required packages
-        # run: pip install mkdocs-material mkdocs-macros-plugin pymdown-extensions mkdocs-material-extensions mkdocs-statistics-plugin neoteroi-mkdocs
         run: pip install -r requirements.txt
       - name: Build site
-        run: mkdocs build --config-file ./mkdocs.yml --site-dir ./_site
-        env:
-          CI: true
+        run: mkdocs build
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+        uses: actions/upload-pages-artifact@v2
+        with:
+          path: './site'
 
-  # Deployment job
   deploy:
     environment:
       name: github-pages
