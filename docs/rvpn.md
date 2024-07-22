@@ -2,171 +2,95 @@
 counter: True
 ---
 
-# 校网连接指南
+# 校园网连接指南
 
-!!! Danger "WIP"
-    有待更新。
+!!! Info "In-Progress"
+    文章有待审核。
 
-!!! note "提示"
-    你收到浙大通知书的那一刻，你<del>可能会迫不及待去看浙大的官网</del>，然后就看见了……
-    
-    ??? general "校官网"
-        === "北大"
-            ![](https://cdn.tonycrane.cc/turing2022/images/pku.png)
-        === "清华"
-            ![](https://cdn.tonycrane.cc/turing2022/images/thu.png)
-        === "南大"
-            ![](https://cdn.tonycrane.cc/turing2022/images/nju.png)
-        === "浙大"
-            ![](https://cdn.tonycrane.cc/turing2022/images/zju.png)
+!!! Note "序言"
+    - 校园网是必需的，在办理好校园网后，才可以使用浙大里的无线网以及访问浙大校内资源。
+    - 校园网需要先激活再缴费（第一个月可以不用缴费）。在校外可以选择 WebVPN 或 ZJU Connect 连接访问校内资源，进入校园后可以采用无线等方式更便捷的连接校网。其中，使用无线网及 WebVPN 就足以满足一定的需求了。
 
-    浙大这个官网……是不是有那么<span class="heimu" title="你知道的太多了">亿点寒碜</span>？  
-    没事，我来告诉你，除了网站，浙大的网络连接也很寒碜，我们简称 **ZJU 网烂**（<span class = "heimu" title = "你没看到">ZJUWLAN 谐音梗</span>）。  
-    尽管烂，但是说实话，~~校园网还是挺难用的（×）~~。
-    下面介绍几种常见的上校园网的方法。  
+## 激活 & 缴费
 
-    **但是注意：在看以下内容之前建议先浏览 Q&A 中 “[Q：如何办理校园网络？如何选择校园网络套餐？](/qa/#q_9)” 部分内容。**  
-    
-    还是一样啦，不确保下面的内容完全正确。如果有谬误欢迎指正呐~
+!!! Warning "注意"
+    第一个月的校网是免费的，不需要充值，但是**一定要激活**。
 
-## 利用校园无线网
+### 激活
+进入网站 [myvpn.zju.edu.cn](myvpn.zju.edu.cn) 或者通过钉钉—工作台—全部—网络缴费进入信息技术中心网站。
 
-学校内<del>全覆盖</del>的无线信号有 ZJUWLAN、ZJUWLAN-Secure、ZJUWLAN-NEW。这三个可以分成两大类：
+!!! Note "网页版激活界面"
+    <center>![](images/activate.png)</center>
 
-### 网页验证 ZJUWLAN、ZJUWLAN-NEW
+第一次使用 VPN 之前先要激活账号，点击“激活账号”可跳转到浙江大学统一身份认证并激活（可能会用到校园卡密码，身份证后六位）。
 
-这两种无线网是开放网络，连接进去之后会一般会自动弹出一个验证网页 https://net3.zju.edu.cn，通过输入浙大通行证<font class="heimu" title="饱受其苦" size=1>其实我也不知道浙大统一认证认证了个毛线，我改了一个密码之后现在要看情况使用密码</font>进行登录。之后即可使用校园网资源。
+!!! Warning "注意"
+    钉钉校园卡分别有卡号和学号两项，其中学号是名字右侧 324 开头的十位数字，本文中要用到的只有学号.
 
-??? general "校园网认证界面"  
-    ![](https://cdn.tonycrane.cc/turing2022/images/net3_zju.png)  
+## 费用
 
-### 通过连接时验证 ZJUWLAN-Secure
+成功激活后，回到 myvpn.zju.edu.cn，输入 VPN 用户名（即学号）和密码并进行缴费。
 
-这个所谓的安全，应该是指这个网络使用了 802.1x EAP 的加密类型。下面分两个主流平台介绍连接方式：
-
-=== "Windows"  
-    在 Windows 下，点击桌面右下方菜单栏的无线网图标，选择 ZJUWLAN-Secure 进行连接，之后像网页认证一样输入浙大通行证即可
-    
-    ??? general "操作步骤"  
-        === "Step 1"  
-            ![](https://cdn.tonycrane.cc/turing2022/images/ZJUWLAN-Secure-Windows-0.png)  
-        === "Step 2"  
-            ![](https://cdn.tonycrane.cc/turing2022/images/ZJUWLAN-Secure-Windows-00.png)  
-        === "Step 3"  
-            ![](https://cdn.tonycrane.cc/turing2022/images/ZJUWLAN-Secure-Windows-1.png)  
-        === "Step 4"  
-            ![](https://cdn.tonycrane.cc/turing2022/images/ZJUWLAN-Secure-Windows-2.png)  
-
-=== "Android"  
-    由于我实在没有 iPhone 所以只能以安卓做演示。iPhone 用户可移步百度。本当にすみません！接下来以 Magic UI 6.0 进行演示，其他操作系统大同小异<font class="heimu" title="大概……？" size=1>大概……？</font>
-
-    ??? general "操作步骤"  
-        === "Step 1"  
-            进入 WLAN 连接页面，选择 ZJUWLAN-Secure  
-            ![](https://cdn.tonycrane.cc/turing2022/images/ZJUWLAN-Secure-Android-1.jpg)  
-
-        === "Step 2"  
-            阶段 2 身份认证和 CA 证书均选择 **不认证**，输入用户名和密码，点击连接即可  
-            ![](https://cdn.tonycrane.cc/turing2022/images/ZJUWLAN-Secure-Android-2.jpg)  
-
-## 有线连接  
-
-宿舍里面有一个网口，用网线怼到电脑上，就可以开始有线连接的奇妙之旅了（×）
-
-由于实在比较麻烦，且可能影响其他的 VPN，所以不是特别推荐。
-
-![](https://cdn.tonycrane.cc/turing2022/images/buyao.png)  
-
-在这里简单放些 Windows 10 上面的过程，按需求使用。
-
-??? general "操作步骤"  
-    === "Step 1"  
-        如图所示创建 VPN 连接。其中 用户名 和 密码 可以不写，等 Step 4 连接的时候再输入  
-        ![](https://cdn.tonycrane.cc/turing2022/images/line-1.png)  
-        ![](https://cdn.tonycrane.cc/turing2022/images/line-2.png)  
-
-    === "Step 2"  
-        修改连接适配器的设置，如图:  
-        ![](https://cdn.tonycrane.cc/turing2022/images/line-3.png)  
-        ![](https://cdn.tonycrane.cc/turing2022/images/line-4.png)  
-        ![](https://cdn.tonycrane.cc/turing2022/images/line-5.png)  
-
-    === "Step 3"  
-        按 Win + R 输入 regedit 打开注册表（也可以通过搜索打开），到下图红色框起来的路径，按下面的内容修改注册表值:  
-        ![](https://cdn.tonycrane.cc/turing2022/images/line-6.png)  
-        ![](https://cdn.tonycrane.cc/turing2022/images/line-7.png)  
-        ![](https://cdn.tonycrane.cc/turing2022/images/line-8.png)  
-        ![](https://cdn.tonycrane.cc/turing2022/images/line-9.png)  
-        ![](https://cdn.tonycrane.cc/turing2022/images/line-10.png)  
-        ![](https://cdn.tonycrane.cc/turing2022/images/line-11.png)  
-
-    === "Step 4"  
-        重启电脑，之后进行连接：  
-        ![](https://cdn.tonycrane.cc/turing2022/images/line-12.png)  
-        ![](https://cdn.tonycrane.cc/turing2022/images/line-13.png)  
-    
-老学长写的有线连接指南：
-
-<div class="card file-block" markdown="1">
-<div class="file-icon"><img src="https://cdn.tonycrane.cc/turing2022/images/pdf.svg" style="height: 3em;"></div>
-<div class="file-body">
-<div class="file-title">如何在寝室用有线上网呢</div>
-<div class="file-meta">355 KB / 6 P</div>
-</div>
-<a class="down-button" target="_blank" href="https://cdn.tonycrane.cc/turing2022/files/%E5%A6%82%E4%BD%95%E5%9C%A8%E5%AF%9D%E5%AE%A4%E7%94%A8%E6%9C%89%E7%BA%BF%E4%B8%8A%E7%BD%91%E5%91%A2.pdf" markdown="1">:fontawesome-solid-download: 下载</a>
-</div>
-
-
-## VPN 连接校网  
-
-对于不在校内但是想要访问校内资源的情况，可以采用学校提供的 VPN 服务。
-
-### RVPN  
-
-浙大提供的使用 rvpn 的方法是通过 EasyConnect 软件进行连接。但是这个软件很脏、比较“流氓”，所以不建议使用。
-
-如果要使用 rvpn 来连接校网的话，可以参考 [:material-github:SoraShu/easyconn-socks5-for-HITsz](https://github.com/SoraShu/easyconn-socks5-for-HITsz) 来搭建一个隔离的 EasyConnect 环境提供代理服务（亲测可用）。
-
-此外，还可以使用今年新开发的一个项目 ZJU Connect（[:material-github:Mythologyli/zju-connect](https://github.com/Mythologyli/zju-connect)）。这个软件在 Windows 系统还有方便操作、比较适合小白的 GUI 版本（[:material-github:Mythologyli/zju-connect-for-Windows](https://github.com/Mythologyli/zju-connect-for-Windows)），可以连接校内的 SSH 与远程桌面，以及提供了 ZJU rule 等功能，非常推荐使用。附上[开发者在 CC98 上发的帖子](https://www.cc98.org/topic/5521873)（~~虽然没有 rvpn 大概也看不了~~）。
-
-### WebVPN  
-
-通过 [webvpn.zju.edu.cn](https://webvpn.zju.edu.cn) 来访问。
-
-## 一些说明  
-
-### 费用  
-
-校园网的费用分为：
+费用一共有三档：
 
 - 10 元/月
 - 30 元/月
 - 50 元/月
 
-通过<del>办理校园卡</del>的方式可以免费从低价位的升级到高一级价位的套餐。资费的详情大致如下：  
+个人感觉 **10 元/月** 已经足够日常使用了。 
 
-|费用（元/月）|带宽（Mbps）|
-|----|----|
-|10|10|
-|30|50|
-|50|100|
+办理了学校杭州移动或电信电话卡的同学可以免费升级一个价位的套餐，购买了电话卡且想要升级的需持身份证前往相应营业厅办理。 
 
-<b>但是</b> 10 元/月的套餐连接 ZJUWLAN-Secure、ZJUWLAN-NEW 可以<del>白嫖</del>30 Mbps 的带宽，~~可以满足一般来说的需求了~~。   
+以下为不同套餐对应带宽，不过由于校网存在过升级，具体数据仅供参考。
 
-### 关于网络稳定性  
+|费用（元 / 月）|带宽（Mbps）|
+|:---:|:---:|
+| 10 | 10 |
+| 30 | 50 |
+| 50 | 100|
 
-ZJUWLAN-Secure 不算特别稳定，有时候会断连。ZJUWLAN-NEW 覆盖面不算广。有线连接极其不稳定。  
+## 校外连接
 
-### 关于网络运营商  
+校外连接方式主要有 WebVPN 和 RVPN 两种。
 
-这个不好说，有时候是移动有时候是电信。如果使用 Parsec 进行远程桌面连接的话注意移动的网络无法使用 Parsec。  
+### WebVPN
 
-### 关于 IPv6  
+WebVPN 是一种通过网页跳转来实现外网访问内网的连接方式，因此无需安装软件即可访问内网资源。
 
-除了 ZJUWLAN 没有 IPv6 地址之外，另外两个无线网络连接和有线连接均会分配 IPv6 地址。有需求的话可以注意一下。  
-此外，有线上网的时候 IPv6 带宽不限速，大概有 300~500 Mbps，可以拿来用一些稀奇古怪的方法利用这带宽（×）。  
+首先进入 [webvpn.zju.edu.cn](webvpn.zju.edu.cn)，可以看到以下界面，然后输入用户名及密码并登录。
 
-### 关于路由器上网  
+<center>![](images/WebVPN-1.png)</center>
 
-宿舍内的网线接口可以拿来给路由器上网。上面教程内时常出现 yusuxuans(_5G) 就是我的路由器（逃）。  
-如果没有什么特别的需求，配置不算特别困难。参考 CC98（校内论坛，需要用内网访问）上的[帖子](https://www.cc98.org/topic/5213173)应该可以完成。
+成功登录后，在以下界面红框所圈的搜索框输入要访问的学校网址即可。（例如 [cc98.org](https://www.cc98.org/)）
+
+<center>![](images/WebVPN-2.png)</center>
+
+### RVPN
+
+- **ZJU Connect** 比较推荐的使用的一种校外连接方式，具体安装可以参考 [cc98 的这篇文章](https://www.cc98.org/topic/5704061)，这里需要先连上校网才能查看，推荐先用 WebVPN 连接校网查看。其在 GitHub 上的开源项目为 [ZJU Connect](https://github.com/Mythologyli/zju-connect)，这个软件在 Windows 系统上还有方便操作 GUI 的版本 [ZJU Connect for Windows](https://github.com/mythologyli/zju-connect-for-Windows)，是非常推荐使用的。
+
+- **EasyConnect** 是一种较为简单但是并不太好用的连接方式，若感兴趣，可以参考 [EasyConnect 的使用方法](https://mp.weixin.qq.com/s/uAjXZqi7Oi7oTmtJGVdtMA)。
+
+## 校内连接
+
+### 无线连接
+
+校园内的 Wi-Fi 网络基本可以覆盖到日常学习生活的大部分区域，主要有 ZJUWLAN、ZJUWLAN-Secure。
+
+ZJUWLAN 在 Wi-Fi 里可以直接找到并连接，但是需要认证，一般在连接后会弹出认证窗口，在填写好用户名、密码后，即可正常上网。一次认证有效时长为 14 天，到期后需要重新认证。
+
+!!! Note "网页版认证界面"
+    <center>![](images/net3_zju.png)</center>
+
+如果没有弹出的话也可以直接访问 [net3.zju.edu.cn](http://net3.zju.edu.cn)，进入认证界面。
+
+ZJUWLAN-Secure 在连接时，输入所用的用户名、密码后即可完成连接。
+
+### 有线连接
+
+不太推荐使用有线连接，个人感觉浙带的有线网络并不比无线网络快，而且很不稳定，并且会和其他代理产生冲突，所以很麻烦，不建议使用。
+
+若还是有需求，可以参考[如何在寝室用有线上网呢](assets/如何在寝室用有线上网呢.pdf)。
+
+!!! Warning "特殊情况"
+    连接校园网后可能遇到的小问题：如果连接校园网后发现可以正常登录 QQ，但是无法打开网页的情况可参考[这篇文章](https://mp.weixin.qq.com/s?mid=2649491759&sn=265e8378ad15aa5536c17c87c4e75272&idx=1&__biz=MjM5OTk0NTg3Mg==)进行修复。
