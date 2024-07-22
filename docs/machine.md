@@ -14,7 +14,7 @@ fold_toc: True
     - 垃圾佬或者希望采用某些奇怪方案的同学欢迎来交流
     - 不要信什么 AIPC 的鬼话，笔记本上面集成的 NPU 其实目前基本用不到，而且性能也非常羸弱。真想要 AIPC 的话，HGX H200 才叫 AIPC（暴论）
     - 如果愿意的话可以来问问，我可以给一些更详细的参考
-    - 附上E志的购机指南：[eva购机指南](https://mp.weixin.qq.com/s?__biz=MjM5OTk0NTg3Mg==&mid=2649495468&idx=1&sn=24349d4bcdb92b78c14ab5cebd87d01c&chksm=bf2b0453885c8d4585ca206ecb520745da2d7e2b5c2234cc4b526cd1fedf86f2e93702e3216d&mpshare=1&scene=23&srcid=0722d9cJ2bOAY3qZR9SUlV4i&sharer_shareinfo=c72a69f168f6533c3ab40830b46b5bf1&sharer_shareinfo_first=c72a69f168f6533c3ab40830b46b5bf1#rd)
+    - 附上[E志的购机指南](https://mp.weixin.qq.com/s?__biz=MjM5OTk0NTg3Mg==&mid=2649495468&idx=1&sn=24349d4bcdb92b78c14ab5cebd87d01c&chksm=bf2b0453885c8d4585ca206ecb520745da2d7e2b5c2234cc4b526cd1fedf86f2e93702e3216d&mpshare=1&scene=23&srcid=0722d9cJ2bOAY3qZR9SUlV4i&sharer_shareinfo=c72a69f168f6533c3ab40830b46b5bf1&sharer_shareinfo_first=c72a69f168f6533c3ab40830b46b5bf1#rd)
     - 牢牢记住一点：没有垃圾的产品，只有垃圾的价格！！！
 
 ## 写在前面的话
