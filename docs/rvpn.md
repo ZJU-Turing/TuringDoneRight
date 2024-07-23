@@ -18,6 +18,7 @@ counter: True
     第一个月的校网是免费的，不需要充值，但是**一定要激活**。
 
 ### 激活
+
 进入网站 [myvpn.zju.edu.cn](myvpn.zju.edu.cn) 或者通过浙大钉—工作台—全部—网络缴费进入信息技术中心网站，这里将浙大钉换为钉钉也可以。
 
 !!! Note "网页版激活界面"
@@ -30,7 +31,7 @@ counter: True
 
 ### 缴费
 
-成功激活后，回到 myvpn.zju.edu.cn，输入 VPN 用户名（即学号）和密码并进行缴费。
+成功激活后，回到 [myvpn.zju.edu.cn](myvpn.zju.edu.cn)，输入 VPN 用户名（即学号）和密码并进行缴费。
 
 套餐一共有三种，其费用及对应带宽见下面表格，不过由于校园网络存在升级，具体数据仅供参考。
 
@@ -83,7 +84,7 @@ ZJUWLAN-Secure 在连接时，在输入所用的用户名、密码后即可完�
 
 === "Windows"
     点击桌面右下方菜单栏中的无线网图标，选择 ZJUWLAN-Secure 进行连接，在输入用户名及密码后，点击连接后即可上网。
-    ??? General "操作步骤"
+    ???+ General "操作步骤"
         === "Step 1"
             <center>![](images/ZJUWLAN-Secure-Windows-1.png)</center>
         === "Step 2"
@@ -95,7 +96,7 @@ ZJUWLAN-Secure 在连接时，在输入所用的用户名、密码后即可完�
 
 === "Android"
     在手机中进入 WLAN 连接页面，选择 ZJUWLAN-Secure 进行连接，之后的阶段 2 身份认证和 CA 证书均选择**不认证**，在输入用户名和密码后，点击连接即可。
-    ??? General "操作步骤"
+    ???+ General "操作步骤"
         === "Step 1"
             <center>![](images/ZJUWLAN-Secure-Android-1.jpg)</center>
         === "Step 2"
