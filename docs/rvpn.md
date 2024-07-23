@@ -19,7 +19,7 @@ counter: True
 
 ### 激活
 
-进入网站 [myvpn.zju.edu.cn](myvpn.zju.edu.cn) 或者通过浙大钉—工作台—全部—网络缴费进入信息技术中心网站，这里将浙大钉换为钉钉也可以。
+进入网站 [myvpn.zju.edu.cn](https://myvpn.zju.edu.cn/) 或者通过浙大钉—工作台—全部—网络缴费进入信息技术中心网站，这里将浙大钉换为钉钉也可以。
 
 !!! Note "网页版激活界面"
     <center>![](images/activate.png)</center>
@@ -31,7 +31,7 @@ counter: True
 
 ### 缴费
 
-成功激活后，回到 [myvpn.zju.edu.cn](myvpn.zju.edu.cn)，输入 VPN 用户名（即学号）和密码并进行缴费。
+成功激活后，回到 [myvpn.zju.edu.cn](https://myvpn.zju.edu.cn/)，输入 VPN 用户名（即学号）和密码并进行缴费。
 
 套餐一共有三种，其费用及对应带宽见下面表格，不过由于校园网络存在升级，具体数据仅供参考。
 
@@ -53,7 +53,7 @@ counter: True
 
 WebVPN 是一种通过网页跳转来实现外网访问内网的连接方式，因此无需安装软件即可访问内网资源。
 
-首先进入 [webvpn.zju.edu.cn](webvpn.zju.edu.cn)，可以看到以下界面，然后输入用户名及网络密码并登录，这里的网络密码可能与统一身份认证密码不同。
+首先进入 [webvpn.zju.edu.cn](https://webvpn.zju.edu.cn/)，可以看到以下界面，然后输入用户名及网络密码并登录，这里的网络密码可能与统一身份认证密码不同。
 
 <center>![](images/WebVPN-1.png)</center>
 
