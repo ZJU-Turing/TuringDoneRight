@@ -27,16 +27,16 @@ counter: True
 你们的录取通知书附带的小册子里面可能会有这个课程的链接，这是学校帮大家录制的基础数学课，是大学知识和高中知识的衔接，可以看一看。（好像还有什么小测，不过这里的小测不计入任何课程的评分，甚至老师也不会看，单纯是让你自己了解一下自己的水平）
 
 ### 数学分析
-可以借一本或者自己买一本数分的教材（《数学分析》陈纪修，大概率你们还是这本教材），网课建议听苏德矿老师慕课的微积分，也可以听一下复旦大学陈纪修教授的[数学分析课程](https://www.bilibili.com/video/BV15v411g7VP?p=2&vd_source=8fb4a55eb3d78209175943e76a4a4725)（教材作者亲自上课，含金量拉满了），有一定基础<del>（想法）</del>的同学也可以考虑看一看梅加强先生的《数学分析》或者 Rudin 的《数学分析原理》，这两本书深度会更深，当然难度也会更高。你们好几位学长做了有内容有质量的笔记，如果自己觉得学的差不多了就可以看看：
+可以借一本或者自己买一本数分的教材（《数学分析》陈纪修，大概率你们还是这本教材），网课建议听苏德矿老师慕课的微积分，也可以听一下复旦大学陈纪修教授的[数学分析课程](https://www.bilibili.com/video/BV15v411g7VP)（教材作者亲自上课，含金量拉满了），有一定基础<del>（想法）</del>的同学也可以考虑看一看梅加强先生的《数学分析》或者 Rudin 的《数学分析原理》，这两本书深度会更深，当然难度也会更高。你们好几位学长做了有内容有质量的笔记，如果自己觉得学的差不多了就可以看看：
 
-- [数分Ⅰ笔记](https://github.com/Intelligent-BOT/hello-world/blob/main/ZJU%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90I%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.pdf)和[备用链接](https://zhuanlan.zhihu.com/p/450978259)
-- [xg 的数分Ⅰ笔记](https://note.tonycrane.cc/assets/files/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%EF%BC%88%E7%94%B2%EF%BC%89I%EF%BC%88H%EF%BC%89%E7%AC%94%E8%AE%B0.pdf)
+- [数分 Ⅰ 笔记](https://github.com/Intelligent-BOT/hello-world/blob/main/ZJU%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90I%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.pdf)和[备用链接](https://zhuanlan.zhihu.com/p/450978259)
+- [xg 的数分 Ⅰ 笔记](https://note.tonycrane.cc/assets/files/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%EF%BC%88%E7%94%B2%EF%BC%89I%EF%BC%88H%EF%BC%89%E7%AC%94%E8%AE%B0.pdf)
 
 ### 线性代数
-前排提示不要看同济大学的紫皮线性代数，跳过这个雷之后，建议自己借或者买一本线代的教材（《大学数学：代数与几何》）看看，我们的教材说不上特别好，但是对于自学来说足够详细和严谨。学长也倾情推荐复旦大学谢启鸿教授的[高等代数课程](https://www.bilibili.com/video/BV1mJ411r7ZB?vd_source=8fb4a55eb3d78209175943e76a4a4725)，谢帅讲课严谨流畅，教材编写更是绝佳，很建议预习使用或者在正常学习之余扩展眼界。学长的笔记：
+前排提示不要看同济大学的紫皮线性代数，跳过这个雷之后，建议自己借或者买一本线代的教材（《大学数学：代数与几何》）看看，我们的教材说不上特别好，但是对于自学来说足够详细和严谨。学长也倾情推荐复旦大学谢启鸿教授的[高等代数课程](https://www.bilibili.com/video/BV1mJ411r7ZB)，谢帅讲课严谨流畅，教材编写更是绝佳，很建议预习使用或者在正常学习之余扩展眼界。学长的笔记：
 
-- [线代Ⅰ笔记](https://github.com/Intelligent-BOT/hello-world/blob/main/ZJU%E8%B5%84%E6%96%99/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.pdf)和[备用链接](https://zhuanlan.zhihu.com/p/450971993)
-- [xg 的线代Ⅰ笔记](https://note.tonycrane.cc/assets/files/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20I%EF%BC%88H%EF%BC%89%E7%AC%94%E8%AE%B0.pdf)
+- [线代 Ⅰ 笔记](https://github.com/Intelligent-BOT/hello-world/blob/main/ZJU%E8%B5%84%E6%96%99/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.pdf)和[备用链接](https://zhuanlan.zhihu.com/p/450971993)
+- [xg 的线代 Ⅰ 笔记](https://note.tonycrane.cc/assets/files/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20I%EF%BC%88H%EF%BC%89%E7%AC%94%E8%AE%B0.pdf)
 
 此外，在此隆重推出图灵 2020 级的 wyy 主编的“线性代数荣誉课辅学讲义” [:material-github:yhwu-is/Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone)，目前已有 v0.4 版本，覆盖了图灵人需要修读的线代 I（H）与线代 II（H）的绝大部分内容（wyy, yyds），可以先下载[电子版](https://github.com/yhwu-is/Linear-Algebra-Left-Undone/releases/tag/v0.4)看一看，从而对线性代数未竟之美有一个初步的认知（确信）。
 
@@ -51,10 +51,13 @@ counter: True
 
 1. 首先，一定要看的是经典的[《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)，这是你作为一个计算机人一定要具备的基本素养，这对于后续的学习生活都会有很大帮助，遇到问题时刻记住先 STFW、RTFM、RTFSC。并且建议将你的浏览器默认搜索引擎从百度、360、搜狗这类换掉，使用必应搜索或者谷歌搜索，这更有利于你获得你想要的答案；
 2. 其次，推荐看一看 “计算机教育中缺失的一课” The Missing Semester of Your CS Education，中文版主页在 https://missing-semester-cn.github.io/，B 站上应该有搬运的视频，后面部分有一些难，不过前面的一些命令行基础知识建议学一学。Windows 环境建议先装好 wsl2（Windows Subsystem for Linux），在里面体验一下命令行操作的快感；（哦对了，Win 系统的安装 Windows Terminal 喵，安装 Windows Terminal 谢谢喵）
-3. 再次，推荐学一学 markdown， LaTeX 或 Typst 这类文本标记语言，这对于后面记笔记、写作业、写报告、写论文都有很大帮助。~~别惦记用你那 Word 用那等线字体、雅黑字体写那毫无美感的东西了~~；
-    - markdown：轻量级文本标记语言，语法很容易学，上网随便找一找就有很多教程。软件的话，经典有 typora 不过要付费了（其实也可以找以前未付费版本的安装包），新兴的有 MarkText 等开源 markdown 编辑器，或者可以直接使用 VSCode 的插件，建议自己多尝试尝试，选一个自己顺手的，再自己摸索摸索怎么让导出的效果更好看。另外 obsidian 也是一个很好的知识库软件，支持使用 markdown 编写，可以用这个来做自己的笔记。
-    - LaTeX：LaTeX 是一个比较复杂的语言，教学资源也有很多，一些教程文档后续我们也会分享，一个在线的教程网站是 https://www.learnlatex.org/en/，可以看一看，主要还是靠自己查资料自己摸索吧。LaTeX 的公式语法是很常用的，在 markdown 里面也可以直接使用，建议特别学一下。如果不想配置本地 LaTeX 编译环境的话，也可以用 [Overleaf](https://www.overleaf.com/) 在线编辑。
-    - Typst: Typst 是近些年新兴的一个标记语言，语法比 LaTeX 简单的多，环境相比 LaTeX 轻量非常多，但是功能也相当强大，做好模版之后的使用有如 markdown 一样流畅丝滑，但是模版制作可能需要有一定的编程基础。VSCode 上有 Typst 的插件，可以直接使用。也可以直接在[官网](https://typst.app)进行编辑，[官方文档](https://typst.app/docs/)写的也非常清晰明白，除非语言不通不建议阅读社区提供的中文文档。想要较深地学习 Typst 也可以参考 [Typst Examples Book](https://sitandr.github.io/typst-examples-book/book/about.html)，里面有着丰富的例子，但是仍在施工，可能会有一些错误。
+3. 再次，推荐学一学 markdown， LaTeX 或 Typst 这类文本标记语言，这对于后面记笔记、写作业、写报告、写论文都有很大帮助。<del>别惦记用你那 Word 用那等线字体、雅黑字体写那毫无美感的东西了</del>；
+=== "markdown"
+    轻量级文本标记语言，语法很容易学，上网随便找一找就有很多教程。软件的话，经典有 typora 不过要付费了（其实也可以找以前未付费版本的安装包），新兴的有 MarkText 等开源 markdown 编辑器，或者可以直接使用 VSCode 的插件，建议自己多尝试尝试，选一个自己顺手的，再自己摸索摸索怎么让导出的效果更好看。另外 obsidian 也是一个很好的知识库软件，支持使用 markdown 编写，可以用这个来做自己的笔记。
+=== "LaTeX"
+    LaTeX 是一个比较复杂的语言，教学资源也有很多，一些教程文档后续我们也会分享，一个在线的教程网站是 https://www.learnlatex.org/en/，可以看一看，主要还是靠自己查资料自己摸索吧。LaTeX 的公式语法是很常用的，在 markdown 里面也可以直接使用，建议特别学一下。如果不想配置本地 LaTeX 编译环境的话，也可以用 [Overleaf](https://www.overleaf.com/) 在线编辑。
+=== "Typst"
+    Typst 是近些年新兴的一个标记语言，语法比 LaTeX 简单的多，环境相比 LaTeX 轻量非常多，但是功能也相当强大，做好模版之后的使用有如 markdown 一样流畅丝滑，但是模版制作可能需要有一定的编程基础。VSCode 上有 Typst 的插件，可以直接使用。也可以直接在[官网](https://typst.app)进行编辑，[官方文档](https://typst.app/docs/)写的也非常清晰明白，除非语言不通不建议阅读社区提供的中文文档。想要较深地学习 Typst 也可以参考 [Typst Examples Book](https://sitandr.github.io/typst-examples-book/book/about.html)，里面有着丰富的例子，但是仍在施工，可能会有一些错误。
 4. 再者，可以在网上冲浪的时候看看学长学姐的博客，或是寻找一些优秀的教学资源，这里是 [ZJU 学长学姐的博客汇总](https://isshikihugh.github.io/zju-cs-asio/)和 [CS 自学指南](https://csdiy.wiki/)；
 5. 最后，如果你想要学习一下开学后要学的计算机课程，也就是“程序设计与算法基础”，那么你需要学的就是 C 语言。  
     - C 语言的教学资源也有很多，不建议看国内的 C 语言书籍，可以看一看 C Primer Plus 这本书，或者[菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html)也是很好的选择。想要看课程学习的话推荐大网红翁恺老师的 [C 语言慕课](https://www.icourse163.org/course/0809ZJU007-9001)，他也是你们程算这门课的任课老师之一。
@@ -64,7 +67,7 @@ counter: True
 此外，在这里推荐一下学曾祖 xg 和学爷组箱子老师的 [2023 年秋冬学期「实用技能拾遗」课程](https://slides.tonycrane.cc/PracticalSkillsTutorial/2023-fall-ckc/)，介绍了一系列好用、常用的工具（包括上面提及的 markdown、LaTeX 等），以及相关的使用教程，B 站上也有相应的回放（关注[@鹤翔万里](https://space.bilibili.com/171431343)谢谢喵~）。
 
 ### 对于有计算机基础的前 OIer
-你们肯定是有比较扎实的 ~~C 语言~~ C++ 基础了，但是经过了一个高三，可能会有些遗忘，在暑假里可以捡一捡自己的编程基础。但是也请注意大一秋冬修读的程序设计与算法基础课程使用的是 C 语言，因此各位 OIer 需要注意一下 C 与 C++ 的语法区别，有时间的话也可以改改自己的码风。
+你们肯定是有比较扎实的 <del>C 语言</del> C++ 基础了，但是经过了一个高三，可能会有些遗忘，在暑假里可以捡一捡自己的编程基础。但是也请注意大一秋冬修读的程序设计与算法基础课程使用的是 C 语言，因此各位 OIer 需要注意一下 C 与 C++ 的语法区别，有时间的话也可以改改自己的码风。
 
 另外，对于上面我说到的提问的智慧、命令行、markdown、LaTeX 之类的如果你不会的话（真的有 OIer 不会这些吗，不会吧不会吧），还是建议你去学一学。或者，你也可以选择上 [:material-github:GitHub](https://www.github.com) 看看有没有你感兴趣的项目，提前感受世界上最大的<del>同性交友网站</del>开源代码托管平台的魅力。
 
