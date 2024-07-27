@@ -120,15 +120,15 @@ CC98 是浙江大学校网内规模最大的论坛，有[网页版](https://www.
 
 在我们的日常学习中，有很多校务相关的操作都是通过浙大钉里面的工作台来完成的，下表是对于浙大钉工作台各项功能的介绍：
 
-![tools1](images/tools1.png)
+![](images/tools1.png)
 
-![tools2](images/tools2.png)
+![](images/tools2.png)
 
-![tools3](images/tools3.png)
+![](images/tools3.png)
 
-![tools4](images/tools4.png)
+![](images/tools4.png)
 
-![toos5](images/tools5.png)
+![](images/tools5.png)
 
 ### 常用小程序
 
