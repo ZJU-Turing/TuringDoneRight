@@ -91,26 +91,26 @@ nav:
   - 新生入学流程: checkin.md
   - 学长组 Q&A 总结: qa.md
   - 暑假购机推荐: machine.md
-  - 新生防诈骗指南: anti_fraud.md
+  # - 新生防诈骗指南: anti_fraud.md
   - 暑假学习建议: summer_study.md
   - 校网连接指南: rvpn.md
-  - 如何获取信息: getinfo.md
-  - 校园生活指南: living.md
-  - 图灵班选课指南: course_selection.md
-  - 图灵班课程学习建议:
-    - courses/index.md
-    - 数学分析（甲）Ⅰ（H）: courses/math_analysis1.md
-    - 线性代数 Ⅰ（H）: courses/linear_algebra1.md
-    - 程序设计与算法基础: courses/programming.md
-    - 中国近现代史纲要（H）: courses/modern_history.md
-    - 思想道德与法治: courses/morality_law.md
-    - 形势与政策 Ⅰ: courses/situation_policy.md
-    - 数学分析（甲）Ⅱ（H）: courses/math_analysis2.md
-    - 线性代数 Ⅱ（H）: courses/linear_algebra2.md
-    - 普通物理学 Ⅰ（H）: courses/physics1.md
-    - 普通物理学实验 Ⅰ: courses/physics_experiment1.md
-    - 离散数学理论基础: courses/discrete_math.md
-    - 网络空间安全导论: courses/cyberspace_security.md
-  - 通识选修课经验: general.md
-  - 成为一个合格的 CS 人: cser.md
-  - 社团、学生组织体验反馈: organizations.md
+  # - 如何获取信息: getinfo.md
+  # - 校园生活指南: living.md
+  # - 图灵班选课指南: course_selection.md
+  # - 图灵班课程学习建议:
+  #   - courses/index.md
+  #   - 数学分析（甲）Ⅰ（H）: courses/math_analysis1.md
+  #   - 线性代数 Ⅰ（H）: courses/linear_algebra1.md
+  #   - 程序设计与算法基础: courses/programming.md
+  #   - 中国近现代史纲要（H）: courses/modern_history.md
+  #   - 思想道德与法治: courses/morality_law.md
+  #   - 形势与政策 Ⅰ: courses/situation_policy.md
+  #   - 数学分析（甲）Ⅱ（H）: courses/math_analysis2.md
+  #   - 线性代数 Ⅱ（H）: courses/linear_algebra2.md
+  #   - 普通物理学 Ⅰ（H）: courses/physics1.md
+  #   - 普通物理学实验 Ⅰ: courses/physics_experiment1.md
+  #   - 离散数学理论基础: courses/discrete_math.md
+  #   - 网络空间安全导论: courses/cyberspace_security.md
+  # - 通识选修课经验: general.md
+  # - 成为一个合格的 CS 人: cser.md
+  # - 社团、学生组织体验反馈: organizations.md

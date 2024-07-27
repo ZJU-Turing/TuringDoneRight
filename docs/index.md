@@ -26,17 +26,17 @@ nostatistics: true
 - [新生入学流程](checkin)
 - [学长组 Q&A 总结 :star:](qa)
 - [暑假购机推荐](machine)
-- [新生防诈骗指南 :star:](anti_fraud)
+  <!-- - [新生防诈骗指南 :star:](anti_fraud) -->
 - [暑假学习建议](summer_study)
 - [校网连接指南](rvpn)
-- [身为浙大学生该如何获取信息 :star:](getinfo)
-- [校园生活指南](living)
+  <!-- - [身为浙大学生该如何获取信息 :star:](getinfo) -->
+  <!-- - [校园生活指南](living) -->
 
 ### 学业指导向
 
 - [:octicons-link-external-16: 图灵班书籍转送统计](https://docs.qq.com/sheet/DU2RIT05ZZ3JnSG1y)（外部链接，腾讯共享文档）
 - [:octicons-link-external-16: 图灵班学习指南](https://zju-turing.github.io/TuringCourses/)（外部链接）
-- [图灵班选课指南 :star:](course_selection)
-- [图灵班课程学习建议](courses)
-- [通识课程经验](general)
-- [如何让自己看上去、闻上去都像一个 CS 人](cser)
+  <!-- - [图灵班选课指南 :star:](course_selection) -->
+  <!-- - [图灵班课程学习建议](courses) -->
+  <!-- - [通识课程经验](general) -->
+  <!-- - [如何让自己看上去、闻上去都像一个 CS 人](cser) -->
