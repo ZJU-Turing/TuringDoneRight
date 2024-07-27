@@ -4,9 +4,6 @@ fold_toc: True
 
 # 学长组 Q&A 总结
 
-!!! Info "In-Progress"
-    文章有待审核。以及下方关于[生活指南](../living)的引用需要更新。
-
 !!! abstract
     从 2021 级学长组继承至今，每年持续更新，可能会有点乱，大家见谅 qwq。
 
