@@ -4,8 +4,8 @@ counter: True
 
 # 实用工具推荐
 
-!!! Danger "WIP"
-    有待更新。
+!!! Info "In-Progress"
+    文章有待审核。
 
 !!! abstract
     本文旨在向刚刚进入图灵班的学弟学妹们介绍和推荐一些在大学的学习和生活中比较实用的小工具和小软件，希望能对大家有所帮助！
@@ -36,13 +36,13 @@ counter: True
 - [Z-library](https://singlelogin.re/)：上面有大量中外书籍的电子版（**注意甄别某些看似一致的钓鱼网站！**）；
 - [Bilibili](https://www.bilibili.com/)：许多外国课程的字幕版，国语优质课程录像及网课；
 - [YouTube](https://www.youtube.com/)：许多国外网课和课程录像 (YouTube 自带机翻 )；
-- [中国大学 mooc](https://www.icourse163.org/)：国内大学精心设计的网课 ( 含作业 ) 及课程录像；
+- [中国大学 mooc](https://www.icourse163.org/)：国内大学精心设计的网课 (含作业) 及课程录像；
 - [谷歌学术](https://scholar.google.com/)（附[国内镜像网](https://so.hiqq.com.cn/)）：国内外的学术论文搜索引擎；
 - [中国知网](https://cnki.net/)：中国最大的学术论文数据库；
 - [万方数据](https://www.wanfangdata.com.cn/)：同样有名的学术数据库；
 - [GitHub](https://github.com/github)：全球最大的开源网站，在这里推荐各位可以提前了解一下 Git 的常见操作，以下学习资料可供参考：
-    - [Git/GitHub 及开源基础 | 实用技能拾遗第二讲 | 浙江大学竺可桢学院学业指导中心辅学精品课](https://www.bilibili.com/video/BV12u4y177vG/?vd_source=a3830d913932136fb60112f8a273825e)
-    - [MIT Missing Semester](https://www.bilibili.com/video/BV1Wh4y1s7Lj/?spm_id_from=333.999.0.0&vd_source=a3830d913932136fb60112f8a273825e)
+    - [Git/GitHub 及开源基础 | 实用技能拾遗第二讲 | 浙江大学竺可桢学院学业指导中心辅学精品课](https://www.bilibili.com/video/BV12u4y177vG)
+    - [MIT Missing Semester](https://www.bilibili.com/video/BV1Wh4y1s7Lj)
 - [Cpp Reference](https://en.cppreference.com/w/)：C 语言的参考网站；
 - [Notion]([https://www.notion.so](https://www.notion.so/))：比较好用的在线笔记；
 - [GeoGebra](https://www.geogebra.org/calculator)：在线的几何画板，可以画出各种函数的图像；
@@ -66,7 +66,7 @@ counter: True
 
 你们的学长学姐（包括学爷学祖）们新建立了一个网站[图灵班学习指南](https://zju-turing.github.io/TuringCourses/)，上面收集了同学们学习各种通识课、专业课等等课程的经验与建议，大部分大一的基础课程已经有了较为完善的内容，而且还有书评专区等等，同学们如果想了解各种课程的信息可以尝试在这里寻找答案。
 
-此外，这个网站仍在发展建设之中，欢迎同学们在未来参与到网站的建设中~（贡献指南也在这个网站里）。想要加入到 [ZJU-Turing GitHub Organization](https://github.com/ZJU-Turing) 中的同学可以联系王鹤翔学长私发 GitHub 用户名。
+此外，这个网站仍在发展建设之中，欢迎同学们在未来参与到网站的建设中~（贡献指南也在这个网站里）。想要加入到 [ZJU-Turing GitHub Organization](https://github.com/ZJU-Turing) 中的同学可以联系管理员。
 
 > 这个网站是基于 GitHub Pages 搭建的，所以**可能**需要翻墙才能访问。
 
@@ -120,9 +120,17 @@ CC98 是浙江大学校网内规模最大的论坛，有[网页版](https://www.
 
 在我们的日常学习中，有很多校务相关的操作都是通过浙大钉里面的工作台来完成的，下表是对于浙大钉工作台各项功能的介绍：
 
-![tools1](C:\Users\22802\university\学生工作\TuringDoneRight\docs\images\tools1.png)![tools2](C:\Users\22802\university\学生工作\TuringDoneRight\docs\images\tools2.png)![tools3](C:\Users\22802\university\学生工作\TuringDoneRight\docs\images\tools3.png)![tools4](C:\Users\22802\university\学生工作\TuringDoneRight\docs\images\tools4.png)![toos5](C:\Users\22802\university\学生工作\TuringDoneRight\docs\images\toos5.png)
+![tools1](images/tools1.png)
+
+![tools2](images/tools2.png)
+
+![tools3](images/tools3.png)
+
+![tools4](images/tools4.png)
+
+![toos5](images/tools5.png)
 
 ### 常用小程序
 
 - 尼普顿智慧生活：可以来寻找空闲充电桩来给自己的小龟充电；
-- 兰德力自主洗：可以来预约寝室楼内的公共洗衣机等。
+- 兰德力自助洗：可以来预约寝室楼内的公共洗衣机等。
