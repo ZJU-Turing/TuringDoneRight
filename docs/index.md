@@ -26,7 +26,7 @@ nostatistics: true
 - [新生入学流程](checkin)
 - [学长组 Q&A 总结 :star:](qa)
 - [暑假购机推荐](machine)
-  <!-- - [新生防诈骗指南 :star:](anti_fraud) -->
+- [新生防诈骗指南 :star:](anti_fraud)
 - [暑假学习建议](summer_study)
 - [校网连接指南](rvpn)
   <!-- - [身为浙大学生该如何获取信息 :star:](getinfo) -->
