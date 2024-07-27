@@ -45,4 +45,4 @@ counter: True
 
 
 ## 课程学习建议
-见[数学分析（甲）Ⅰ（H）](/courses/math_analysis1/#_4)相关部分。
+见[数学分析（甲）Ⅰ（H）](../courses/math_analysis1/#_4)相关部分。

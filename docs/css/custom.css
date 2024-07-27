@@ -9,7 +9,7 @@
 } */
 
 .md-typeset a {
-  color: #005bd0;
+  color: #005b9c;
 }
 
 .md-typeset h1, .md-typeset h2 {
@@ -166,16 +166,28 @@ input#mkdocs-content-password {
 .md-typeset .general > summary > em {
   color:rgb(0, 114, 255)
 }
-.md-typeset .admonition > p {
+.md-typeset .admonition > p,
+.md-typeset details > p {
   font-size: .75rem;
 }
-.md-typeset .admonition > ul {
+.md-typeset .admonition > blockquote,
+.md-typeset details > blockquote {
   font-size: .75rem;
 }
-.md-typeset .admonition > summary {
+.md-typeset .admonition > ul,
+.md-typeset details > ul {
   font-size: .75rem;
 }
-.md-typeset .admonition > .tabbed-set {
+.md-typeset .admonition > ol,
+.md-typeset details > ol {
+  font-size: .75rem;
+}
+.md-typeset .admonition > summary,
+.md-typeset details > summary {
+  font-size: .75rem;
+}
+.md-typeset .admonition > .tabbed-set,
+.md-typeset details > .tabbed-set {
   font-size: .75rem;
 }
 
