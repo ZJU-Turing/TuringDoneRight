@@ -30,7 +30,7 @@ nostatistics: true
 - [暑假学习建议](summer_study)
 - [校网连接指南](rvpn)
 - [实用工具推荐 :star:](tools)
-  <!-- - [校园生活指南](living) -->
+- [校园生活指南](living)
 
 ### 学业指导向
 
