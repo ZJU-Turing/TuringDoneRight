@@ -97,7 +97,12 @@ nav:
   - 实用工具推荐: tools.md
   - 校园生活指南: living.md
   # - 图灵班选课指南: course_selection.md
+<<<<<<< HEAD
   - 图灵班课程学习建议: course_advice.md
   # - 通识选修课经验: general.md
   # - 成为一个合格的 CS 人: cser.md
   # - 社团、学生组织体验反馈: organizations.md
+=======
+  - 课程学习建议: course_advice.md
+  - 成为一个合格的 CS 人: cser.md
+>>>>>>> 507c43784f3a9f486a1f292126bf6f5de338eac5
