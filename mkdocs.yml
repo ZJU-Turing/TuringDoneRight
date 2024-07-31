@@ -74,7 +74,6 @@ extra_css:
 extra_javascript:
   - https://cdn.tonycrane.cc/utils/katex.min.js
   - https://cdn.tonycrane.cc/turing2022/js/katex.js
-  - https://pan.yusux.xyz/source_one/js/suspension_img/suspension.js
   # js/toc.js    # this is in template 'base.html'
   # js/scheme.js # this is in template 'base.html'
 

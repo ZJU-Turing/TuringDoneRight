@@ -10,10 +10,8 @@ counter: True
 
         文中的很多内容在学爷组 xg 的 [2023 年春夏学期朋辈辅学「实用技能拾遗」课程](https://slides.tonycrane.cc/PracticalSkillsTutorial)中都有详细讲解，感兴趣的可以看一看 slides 以及回放。
 
-    本文转载自学爷组 QJJ 同学的 CC98 帖子——[谈谈如何让自己看上去、闻上去都像一个CS人](https://www.cc98.org/topic/5370849)。
+    本文转载自学爷组 QJJ 同学的 CC98 帖子：[谈谈如何让自己看上去、闻上去都像一个CS人](https://www.cc98.org/topic/5370849)。
     <!--（其实是为我们写的，然后随手发了个 98 就上了十大）-->
-
-    博客原文链接：[如何让自己看上去、闻起来都像一个CS人](https://hobbitqia.cc/p/5948019b.html)。
 
     以下是原文内容：
 
