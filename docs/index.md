@@ -34,8 +34,8 @@ nostatistics: true
 
 ### 学业指导向
 
-- [:octicons-link-external-16: 图灵班书籍转送统计](https://docs.qq.com/sheet/DU2RIT05ZZ3JnSG1y)（外部链接，腾讯共享文档）
 - [:octicons-link-external-16: 图灵班学习指南](https://zju-turing.github.io/TuringCourses/)（外部链接）
+- [:octicons-link-external-16: 图灵班书籍转送统计](https://docs.qq.com/sheet/DU2RIT05ZZ3JnSG1y)（腾讯共享文档）
   <!-- - [图灵班选课指南 :star:](course_selection) -->
 - [课程学习建议](course_advice)
 - [如何让自己看上去、闻上去都像一个 CS 人 :star:](cser)
