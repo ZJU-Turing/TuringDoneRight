@@ -38,5 +38,4 @@ nostatistics: true
 - [:octicons-link-external-16: 图灵班学习指南](https://zju-turing.github.io/TuringCourses/)（外部链接）
   <!-- - [图灵班选课指南 :star:](course_selection) -->
 - [课程学习建议](course_advice)
-  <!-- - [通识课程经验](general) -->
-- [如何让自己看上去、闻上去都像一个 CS 人](cser)
+- [如何让自己看上去、闻上去都像一个 CS 人 :star:](cser)

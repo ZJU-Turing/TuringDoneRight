@@ -4,9 +4,6 @@ counter: True
 
 # 如何让自己看上去、闻上去都像一个 CS 人
 
-!!! Info "In-Progress"
-    文章有待审核。
-
 !!! abstract
     !!! note "补充提示"
         本文尽量保持了原样，并没有进一步的更新。
