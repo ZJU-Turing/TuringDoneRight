@@ -95,6 +95,6 @@ nav:
   - 校网连接指南: rvpn.md
   - 实用工具推荐: tools.md
   - 校园生活指南: living.md
-  # - 图灵班选课指南: course_selection.md
+  - 图灵班选课指南: course_selection.md
   - 课程学习建议: course_advice.md
   - 成为一个合格的 CS 人: cser.md
