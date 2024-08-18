@@ -9,7 +9,7 @@ counter: True
 
     选课可能看起来会比较复杂，但各位不用担心，届时我们学长组也会细致讲解，甚至到寝室手把手教学。在实操选课之后大家就能更好地理解整个选课流程和技巧了。
 
-除了本文之外，浙江大学新生指引（下）的彩票系统特别篇也是一个很好的参考（**但是 24 届的教务网会直接指向教学管理信息服务平台即  [zdbk.zju.edu.cn](https://zdbk.zju.edu.cn/)，所以下面的 pdf 仅供参考**）：
+除了本文之外，浙江大学新生指引（下）的彩票系统特别篇也是一个很好的参考（**但是 24 届的教务网会直接指向教学管理信息服务平台即  [zdbk.zju.edu.cn](http://zdbk.zju.edu.cn/)，所以下面的 pdf 仅供参考**）：
 
 <div class="card file-block" markdown="1">
 <div class="file-icon"><img src="https://cdn.tonycrane.cc/turing2022/images/pdf.svg" style="height: 3em;"></div>
