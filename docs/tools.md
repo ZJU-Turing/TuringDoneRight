@@ -45,7 +45,7 @@ counter: True
 - [Draw.io](https://app.diagrams.net/)：在线画图软件，后续写 report 的时候如果需要绘制图论相关的图可以用此软件绘制；
 - [Table Translator](https://tablesgenerator.com/)：可以帮助对于 LaTeX 或者 html 语法不是很熟练的同学较为方便地生成一个表格的源码；
 - [Overleaf](https://www.overleaf.com/)：比较好用的在线 LaTex 编辑器，支持实时预览和多人协作等功能，可以用来比较方便地写论文和报告；
-- [Celechron](https://www.cc98.org/topic/5947195/1)：Celechron 主要提供日程、课表、课程、成绩的查询功能。界面 UI 很舒服，使用很流畅，个人认为比求是潮 Mobile 要更好用。
+- [Celechron](https://www.cc98.org/topic/5807824)：Celechron 主要提供日程、课表、课程、成绩的查询功能。界面 UI 很舒服，使用很流畅，个人认为比求是潮 Mobile 要更好用。
 
 ### 使用大语言模型
 
