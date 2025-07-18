@@ -1,6 +1,6 @@
-# 图灵 2024 级学长组资料汇总网站
+# 图灵 2025 级学长组资料汇总网站
 
-[![](https://github.com/ZJU-Turing/TuringDoneRight/actions/workflows/deploy.yml/badge.svg)](https://turing2024.tonycrane.cc/)
+[![](https://github.com/ZJU-Turing/TuringDoneRight/actions/workflows/deploy.yml/badge.svg)](https://turing2025.tonycrane.cc/)
 
 > **Warning** 正在建设中
 
@@ -8,7 +8,7 @@
 
 - 安装依赖
     ```sh
-    $ pip install -r requirements.txt
+    $ pip install -r requirements.txt # 注意固定版本号可能会干扰原有环境
     ```
 - 开启本地预览服务
     ```sh
@@ -17,10 +17,11 @@
 
 ## 修改发布
 
-2023、2024 年版通过 GitHub Action 自动构建并部署到 TonyCrane 的个人服务器上。
+2023、2024、2025 年版通过 GitHub Action 自动构建并部署到 TonyCrane 的个人服务器上。
 
 ## 历年版本
 
+- 2024 年：[`2024`](https://github.com/ZJU-Turing/TuringDoneRight/tree/2024) [turing2024.tonycrane.cc](https://turing2024.tonycrane.cc/)
 - 2023 年：[`2023`](https://github.com/ZJU-Turing/TuringDoneRight/tree/2023) [turing2023.tonycrane.cc](https://turing2023.tonycrane.cc/)
 - 2022 年：[`2022`](https://github.com/ZJU-Turing/TuringDoneRight/tree/2022) [turing2022.tonycrane.cc](https://turing2022.tonycrane.cc/)
 
