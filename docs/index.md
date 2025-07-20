@@ -19,23 +19,23 @@ nostatistics: true
 ## 文章目录
 <div></div>
 
-### [写在前面的话](preface)
+### [写在前面的话](preface.md)
 
 ### 新生入学向
 
-- [新生入学流程](checkin)
-- [学长组 Q&A 总结 :star:](qa)
-- [暑假购机推荐](machine)
-- [新生防诈骗指南 :star:](anti_fraud)
-- [暑假学习建议](summer_study)
-- [校网连接指南](rvpn)
-- [实用工具推荐 :star:](tools)
-- [校园生活指南](living)
+- [新生入学流程](checkin.md)
+- [学长组 Q&A 总结 :star:](qa.md)
+- [暑假购机推荐](machine.md)
+- [新生防诈骗指南 :star:](anti_fraud.md)
+- [暑假学习建议](summer_study.md)
+- [校网连接指南](rvpn.md)
+- [实用工具推荐 :star:](tools.md)
+- [校园生活指南](living.md)
 
 ### 学业指导向
 
 - [:octicons-link-external-16: 图灵班学习指南](https://zju-turing.github.io/TuringCourses/)（外部链接）
 - [:octicons-link-external-16: 图灵班书籍转送统计](https://docs.qq.com/sheet/DU2RIT05ZZ3JnSG1y)（腾讯共享文档）
-- [图灵班选课指南 :star:](course_selection)
-- [课程学习建议](course_advice)
-- [如何让自己看上去、闻上去都像一个 CS 人 :star:](cser)
+- [图灵班选课指南 :star:](course_selection.md)
+- [课程学习建议](course_advice.md)
+- [如何让自己看上去、闻上去都像一个 CS 人 :star:](cser.md)
