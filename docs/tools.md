@@ -45,7 +45,7 @@ counter: True
 - [Draw.io](https://app.diagrams.net/)：在线画图软件，后续写 report 的时候如果需要绘制图论相关的图可以用此软件绘制；
 - [Table Translator](https://tablesgenerator.com/)：可以帮助对于 LaTeX 或者 html 语法不是很熟练的同学较为方便地生成一个表格的源码；
 - [Overleaf](https://www.overleaf.com/)：比较好用的在线 LaTex 编辑器，支持实时预览和多人协作等功能，可以用来比较方便地写论文和报告；
-- [Celechron](https://www.cc98.org/topic/5807824)：Celechron 主要提供日程、课表、课程、成绩的查询功能。界面 UI 很舒服，使用很流畅，个人认为比求是潮 Mobile 要更好用。
+- [Celechron](https://www.cc98.org/topic/5807824)：Celechron 主要提供日程、课表、课程、成绩、学在浙大作业ddl的查询功能。界面 UI 很舒服，使用很流畅，个人认为比求是潮 Mobile 要更好用。
 
 ### 使用大语言模型
 
@@ -71,16 +71,20 @@ counter: True
 
 * 官方文件/通知 
     - 本科生院网：https://bksy.zju.edu.cn
+    - 教务系统网：https://zdbk.zju.edu.cn （相关教学课程信息查询、高年级毕业审核、对外交流查询等）
     - 竺院办公网：http://office.ckc.zju.edu.cn（有一些资料在中文网上找不到）
     - 综合服务网：http://zhfw.zju.edu.cn
     - 学工部网站：http://www.xgb.zju.edu.cn
     - 团委网站：https://zjutw.zju.edu.cn
+    - 机构查询（黄页、网站）：https://www.zju.edu.cn/593/list.htm
+    - 校务服务网：http://xwfw.zju.edu.cn/ （办事服务流程申请，相关文件）
 * 其他
-    - 素测网：https://ckcyouth.zju.edu.cn/zs/index（可以用于查询综素分）
-    - 素拓网：http://www.youth.zju.edu.cn/sztz/（可以用于查询二三课分）
-    - 正版软件：http://ms.zju.edu.cn/（可下载matlab等正版软件）
-    - 团在浙大：http://tzzd.zju.edu.cn/（可以用于报名社团精品课，借尧坤楼教室）
-    - 浙大图书馆：http://libweb.zju.edu.cn/（可以用于图书馆座位预约、馆藏查询与借书预约）
+    - 素测网：https://ckcyouth.zju.edu.cn/zs/index （可以用于查询综素分）
+    - 素拓网：http://www.youth.zju.edu.cn/sztz/ （可以用于查询二三课分）
+    - 正版软件：http://ms.zju.edu.cn/ （可下载matlab等正版软件）
+    - 团在浙大：http://tzzd.zju.edu.cn/ （可以用于报名社团精品课，借尧坤楼教室）
+    - 浙大图书馆：http://libweb.zju.edu.cn/ （可以用于图书馆座位预约、馆藏查询与借书预约）
+    - 竺院荣誉教育系统：http://ckcsys.zju.edu.cn/ （可以用于导师库查询、相关业绩申报、主干课查询等）
 * **这里推荐一个整合的网站：https://zjuers.com/ 里面基本上涵盖了平时会用到的所有网站。**
 
 ### 常用公众号
@@ -96,11 +100,27 @@ counter: True
 * **浙大竺院人**：浙江大学竺可桢学院团学工作宣传平台，主要面向在校生，发布与同学们学习、生活密切相关的信息；
 * **浙大图灵班**：浙江大学图灵班自己的公众号。
 
+### 常用电话号
+
+- **校医院24小时值班电话**：88201120
+- **校医院门诊服务热线（紫金港）**：88206017
+- **校医院医保办**：88981591
+- **心理中心预约咨询热线**：88982525
+
+- **师生员工报警求助服务**
+
+  - 受理时间：24小时
+  - 受理机构：安全保卫处
+  - 受理地方（紫金港）：东4安全保卫处值班室
+  - 咨询电话（紫金港）：88206110
+
 ### 校内论坛
 
 #### CC98
 
 CC98 是浙江大学校网内规模最大的论坛，有[网页版](https://www.cc98.org/)和微信小程序（都需要校园网或使用 webvpn/rvpn 才能登上）。
+
+ps: 也可以用微信小程序：98小板凳（无需校园网，回答10道问题即可）
 
 在这里，你可以交流任何问题，可以找到各种学习资源，可以找到留学、找工作等经验分享,可以看到帅气 xgg 漂亮 xjj，可以看到各种令人震撼的心灵故事，<del>还可以在这里找到属于自己的缘分</del>。
 
@@ -129,3 +149,4 @@ CC98 是浙江大学校网内规模最大的论坛，有[网页版](https://www.
 
 - 尼普顿智慧生活：可以来寻找空闲充电桩来给自己的小龟充电；
 - 兰德力自助洗：可以来预约寝室楼内的公共洗衣机等。
+- 海乐生活：可以来预约寝室一楼的公共洗鞋机。
