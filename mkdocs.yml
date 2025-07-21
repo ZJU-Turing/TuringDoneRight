@@ -1,10 +1,10 @@
-site_name: 图灵 2024 学长组资料汇总
-site_url: https://turing2024.tonycrane.cc/
-site_description: 图灵 2024 学长组信息汇总
+site_name: 图灵 2025 学长组资料汇总
+site_url: https://turing2025.tonycrane.cc/
+site_description: 图灵 2025 学长组信息汇总
 repo_name: TuringDoneRight
 repo_url: https://github.com/ZJU-Turing/TuringDoneRight/
 edit_uri: tree/master/docs
-copyright: Copyright &copy; 2023-2024 浙江大学图灵班学长组
+copyright: Copyright &copy; 2022-2025 浙江大学图灵班学长组
 
 theme: 
   name: 'material'
@@ -87,14 +87,14 @@ plugins:
 nav:
   - 主页: index.md
   - 写在前面的话: preface.md
-  - 新生入学流程: checkin.md
-  - 学长组 Q&A 总结: qa.md
-  - 暑假购机推荐: machine.md
-  - 新生防诈骗指南: anti_fraud.md
-  - 暑假学习建议: summer_study.md
-  - 校网连接指南: rvpn.md
-  - 实用工具推荐: tools.md
-  - 校园生活指南: living.md
-  - 图灵班选课指南: course_selection.md
-  - 课程学习建议: course_advice.md
-  - 成为一个合格的 CS 人: cser.md
+  # - 新生入学流程: checkin.md
+  # - 学长组 Q&A 总结: qa.md
+  # - 暑假购机推荐: machine.md
+  # - 新生防诈骗指南: anti_fraud.md
+  # - 暑假学习建议: summer_study.md
+  # - 校网连接指南: rvpn.md
+  # - 实用工具推荐: tools.md
+  # - 校园生活指南: living.md
+  # - 图灵班选课指南: course_selection.md
+  # - 课程学习建议: course_advice.md
+  # - 成为一个合格的 CS 人: cser.md
