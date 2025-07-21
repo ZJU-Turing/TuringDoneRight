@@ -4,6 +4,9 @@ counter: True
 
 # 实用工具推荐
 
+!!! Warning
+    该页面正在施工ing
+
 !!! abstract
     本文旨在向刚刚进入图灵班的学弟学妹们介绍和推荐一些在大学的学习和生活中比较实用的小工具和小软件，希望能对大家有所帮助！
 
@@ -51,8 +54,8 @@ tips1：在[ZJUers](https://zjuers.com/)网站上还有一些有用的在线工�
 
 tips2：以上部分网站需要科学上网才可访问，可以在CC98（下文会提及）或其他平台上了解如何科学上网。
 
-
 ### 使用大语言模型
+
 正确使用大语言模型可以大大提高学习效率。目前国际上比较流行的大语言模型有 ChatGPT、Claude、Gemini 等，国内有 DeepSeek、豆包、文心一言、智谱清言等。大部分大语言模型都有免费模型可以使用，可以自行探索下比较好用的。
 
 同时还推荐同学使用 Copilot，作为一款 AI 编程工具，它支持大部分编程语言，可以根据提示帮助编写代码，同时还能为代码生成注释。不过请**合理使用** AI 进行编程。
@@ -72,18 +75,19 @@ tips2：以上部分网站需要科学上网才可访问，可以在CC98（下�
 ### 常用官方网站（一般需要校网）
 
 * 官方文件/通知 
-    - 本科生院网：https://bksy.zju.edu.cn
-    - 竺院办公网：http://office.ckc.zju.edu.cn（有一些资料在中文网上找不到）
-    - 综合服务网：http://zhfw.zju.edu.cn
-    - 学工部网站：http://www.xgb.zju.edu.cn
-    - 团委网站：https://zjutw.zju.edu.cn
+    - 本科生院网：<https://bksy.zju.edu.cn>
+    - 竺院办公网：<http://office.ckc.zju.edu.cn>（有一些资料在中文网上找不到）
+    - 综合服务网：<http://zhfw.zju.edu.cn>
+    - 学工部网站：<http://www.xgb.zju.edu.cn>
+    - 团委网站：<https://zjutw.zju.edu.cn>
 * 其他
-    - 素测网：https://ckcyouth.zju.edu.cn/zs/index（可以用于查询综素分）
-    - 素拓网：http://www.youth.zju.edu.cn/sztz/（可以用于查询二三课分）
-    - 正版软件：http://ms.zju.edu.cn/（可下载matlab等正版软件）
-    - 团在浙大：http://tzzd.zju.edu.cn/（可以用于报名社团精品课，借尧坤楼教室）
-    - 浙大图书馆：http://libweb.zju.edu.cn/（可以用于图书馆座位预约、馆藏查询与借书预约）
-* **这里推荐一个整合的网站**：https://zjuers.com/ 里面基本上涵盖了平时会用到的所有网站。它不需要校网，且其中还有许多上文未提及的网站，大家可以自行探索。
+    - 素测网：<https://ckcyouth.zju.edu.cn/zs/index>（可以用于查询综素分）
+    - 素拓网：<http://www.youth.zju.edu.cn/sztz/>（可以用于查询二三课分）
+    - 正版软件：<http://ms.zju.edu.cn/>（可下载matlab等正版软件）
+    - 团在浙大：<http://tzzd.zju.edu.cn/>（可以用于报名社团精品课，借尧坤楼教室）
+    - 浙大图书馆：<http://libweb.zju.edu.cn/>（可以用于图书馆座位预约、馆藏查询与借书预约）
+* **这里推荐一个整合的网站**：<https://zjuers.com/> 里面基本上涵盖了平时会用到的所有网站。它不需要校网，且其中还有许多上文未提及的网站，大家可以自行探索。
+
 
 ### 常用公众号
 
