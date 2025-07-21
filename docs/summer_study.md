@@ -47,14 +47,14 @@ counter: True
 ### 以前没有接触过计算机的同学
 
 1. 首先，一定要看的是经典的[《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)，这是你作为一个计算机人一定要具备的基本素养，这对于后续的学习生活都会有很大帮助，遇到问题时刻记住先 STFW、RTFM、RTFSC。并且建议将你的浏览器默认搜索引擎从百度、360、搜狗这类换掉，使用必应搜索或者谷歌搜索，这更有利于你获得你想要的答案；
-2. 其次，推荐看一看 “计算机教育中缺失的一课” The Missing Semester of Your CS Education，中文版主页在 https://missing-semester-cn.github.io/，B 站上应该有搬运的视频，后面部分有一些难，不过前面的一些命令行基础知识建议学一学。Windows 环境建议先装好 wsl2（Windows Subsystem for Linux），在里面体验一下命令行操作的快感；（哦对了，Win 系统的安装 Windows Terminal 喵，安装 Windows Terminal 谢谢喵）
+2. 其次，推荐看一看 “计算机教育中缺失的一课” The Missing Semester of Your CS Education，中文版主页在 <https://missing-semester-cn.github.io/>，B 站上应该有搬运的视频，后面部分有一些难，不过前面的一些命令行基础知识建议学一学。Windows 环境建议先装好 wsl2（Windows Subsystem for Linux），在里面体验一下命令行操作的快感；（哦对了，Win 系统的安装 Windows Terminal 喵，安装 Windows Terminal 谢谢喵）
 3. 再次，推荐学一学 markdown， LaTeX 或 Typst 这类文本标记语言，这对于后面记笔记、写作业、写报告、写论文都有很大帮助。<del>别惦记用你那 Word 用那等线字体、雅黑字体写那毫无美感的东西了</del>；
 
     !!! Note "简介"
         === "markdown"
             轻量级文本标记语言，语法很容易学，上网随便找一找就有很多教程。软件的话，经典有 typora 不过要付费了（其实也可以找以前未付费版本的安装包），新兴的有 MarkText 等开源 markdown 编辑器，或者可以直接使用 VSCode 的插件，建议自己多尝试尝试，选一个自己顺手的，再自己摸索摸索怎么让导出的效果更好看。另外 obsidian 也是一个很好的知识库软件，支持使用 markdown 编写，可以用这个来做自己的笔记。
         === "LaTeX"
-            LaTeX 是一个比较复杂的语言，教学资源也有很多，一些教程文档后续我们也会分享，一个在线的教程网站是 https://www.learnlatex.org/en/，可以看一看，主要还是靠自己查资料自己摸索吧。LaTeX 的公式语法是很常用的，在 markdown 里面也可以直接使用，建议特别学一下。如果不想配置本地 LaTeX 编译环境的话，也可以用 [Overleaf](https://www.overleaf.com/) 在线编辑。
+            LaTeX 是一个比较复杂的语言，教学资源也有很多，一些教程文档后续我们也会分享，一个在线的教程网站是 <https://www.learnlatex.org/en/>，可以看一看，主要还是靠自己查资料自己摸索吧。LaTeX 的公式语法是很常用的，在 markdown 里面也可以直接使用，建议特别学一下。如果不想配置本地 LaTeX 编译环境的话，也可以用 [Overleaf](https://www.overleaf.com/) 在线编辑。
         === "Typst"
             Typst 是近些年新兴的一个标记语言，语法比 LaTeX 简单的多，环境相比 LaTeX 轻量非常多，但是功能也相当强大，做好模版之后的使用有如 markdown 一样流畅丝滑，但是模版制作可能需要有一定的编程基础。VSCode 上有 Typst 的插件，可以直接使用。也可以直接在[官网](https://typst.app)进行编辑，[官方文档](https://typst.app/docs/)写的也非常清晰明白，除非语言不通不建议阅读社区提供的中文文档。想要较深地学习 Typst 也可以参考 [Typst Examples Book](https://sitandr.github.io/typst-examples-book/book/about.html)，里面有着丰富的例子，但是仍在施工，可能会有一些错误。
 
