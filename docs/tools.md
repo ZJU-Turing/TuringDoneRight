@@ -31,7 +31,6 @@ counter: True
 
 - [Google](https://www.google.com/)：任何课程的名校讲义、录像等一切资源，以及高质量的知识检索； 
 - [MIT ocw](https://ocw.mit.edu/)：MIT 开设的许多课程的完整录像及作业、讲义和其他材料； 
-<!-- - [Z-library](https://singlelogin.re/)：上面有大量中外书籍的电子版（**注意甄别某些看似一致的钓鱼网站！**）；这个域名已经不能用力 -->
 - [Z-library](https://z-library-project.com/)：（指路官方域名）上面有大量中外书籍的电子版（**注意甄别某些看似一致的钓鱼网站！**）；
 - [Bilibili](https://www.bilibili.com/)：许多外国课程的字幕版，国语优质课程录像及网课；
 - [YouTube](https://www.youtube.com/)：许多国外网课和课程录像 (YouTube 自带机翻 )；
@@ -44,7 +43,7 @@ counter: True
     - [MIT Missing Semester](https://www.bilibili.com/video/BV1Wh4y1s7Lj)
 - [Cpp Reference](https://en.cppreference.com/w/)：C 语言的参考网站；
 - [Notion](https://www.notion.so/)：比较好用的在线笔记；
-- [GeoGebra](https://www.geogebra.org/calculator)与[Desmos](https://www.desmos.com/calculator)：在线的几何画板，可以画出各种函数的图像；
+- [GeoGebra](https://www.geogebra.org/calculator) 与 [Desmos](https://www.desmos.com/calculator)：在线的几何画板，可以画出各种函数的图像；
 - [Wolfram | Alpha](https://www.wolframalpha.com/)：强大的在线计算器，可以处理包括积分、求极限等复杂运算；
 - [Draw.io](https://app.diagrams.net/)：在线画图软件，后续写 report 的时候如果需要绘制图论相关的图可以用此软件绘制；
 - [Table Translator](https://tablesgenerator.com/)：可以帮助对于 LaTeX 或者 html 语法不是很熟练的同学较为方便地生成一个表格的源码；
@@ -53,11 +52,11 @@ counter: True
 
 ### 使用大语言模型
 
-正确使用大语言模型可以大大提高学习效率。目前国际上比较流行的大语言模型有 ChatGPT、Claude、Gemini 等，国内有Deepseek、豆包、文心一言、智谱清言等。大部分大语言模型都有免费模型可以使用，可以自行探索下比较好用的。
+正确使用大语言模型可以大大提高学习效率。目前国际上比较流行的大语言模型有 ChatGPT、Claude、Gemini 等，国内有 DeepSeek、豆包、文心一言、智谱清言等。大部分大语言模型都有免费模型可以使用，可以自行探索下比较好用的。
 
 目前最为常用的大语言模型是 ChatGPT，在[官网](https://chatgpt.com/)可以免费访问 GPT-4o 使用。有几点问题要注意，一是需要科学上网；二是使用有时可能会报错，需要反复刷新页面，重新提问来解决问题。当然也可以每月 20 美元购买 Plus 以获得比较好的体验，不过一般情况下没有必要买。
 
-同时还推荐同学使用 Copilot，作为一款 AI 编程工具，它支持大部分编程语言，可以根据提示帮助编写代码，同时还能为代码生成注释。不过请**合理使用**AI进行编程。
+同时还推荐同学使用 Copilot，作为一款 AI 编程工具，它支持大部分编程语言，可以根据提示帮助编写代码，同时还能为代码生成注释。不过请**合理使用** AI 进行编程。
 
 **注意，大语言模型只是辅助大家更便利获取知识的工具，一定不要过度依赖，更一定不要将它创作的内容直接复制粘贴成为自己的作业、论文！**一般的大语言模型生成的论文和报告痕迹都比较明显，且已经有了不少识别 AI 创作内容的工具，很容易被老师查出。同时，过于依赖 GPT 完成各项作业不利于对自己能力的提升。
 
