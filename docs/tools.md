@@ -35,7 +35,7 @@ counter: True
 - [Bilibili](https://www.bilibili.com/)：许多外国课程的字幕版，国语优质课程录像及网课；
 - [YouTube](https://www.youtube.com/)：许多国外网课和课程录像 (YouTube 自带机翻 )；
 - [中国大学 mooc](https://www.icourse163.org/)：国内大学精心设计的网课 (含作业) 及课程录像；
-- [谷歌学术](https://scholar.google.com/)（附[国内镜像网](scholar.hedasudi.com/)）：国内外的学术论文搜索引擎；
+- [谷歌学术](https://scholar.google.com/)（附[国内镜像网](https://scholar.hedasudi.com/)）：国内外的学术论文搜索引擎；
 - [中国知网](https://cnki.net/)：中国最大的学术论文数据库；
 - [万方数据](https://www.wanfangdata.com.cn/)：同样有名的学术数据库；
 - [GitHub](https://github.com/github)：全球最大的开源网站，在这里推荐各位可以提前了解一下 Git 的常见操作，以下学习资料可供参考：
