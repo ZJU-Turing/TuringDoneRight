@@ -71,7 +71,9 @@ counter: True
 
 另外，对于上面我说到的提问的智慧、命令行、markdown、LaTeX 之类的如果你不会的话（真的有 OIer 不会这些吗，不会吧不会吧），还是建议你去学一学。或者，你也可以选择上 [:material-github:GitHub](https://www.github.com) 看看有没有你感兴趣的项目，提前感受世界上最大的<del>同性交友网站</del>开源代码托管平台的魅力。
 
-除此之外，如果你真的不想再玩了，想学一点新的东西，推荐你学一学 Rust 语言，它的难度会比较大，但是是当前的大势所趋（反正我没好好学又后悔了）。
+除此之外，如果你真的不想再玩了，想学一点新的东西，推荐你学一学 Rust 语言，它的难度会比较大，但是是当前的大势所趋（反正我没好好学又后悔了）。  
+
+如果你已经对前面提到的命令行，git，markdown有了一定了解，可以尝试搭建自己的个人网站，在之后的学习中也可以用来管理笔记。推荐使用 [mkdocs](https://www.mkdocs.org/) 作为静态网站生成器，配合 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) 主题搭建。这里提供一个比较详细的视频教程：[BV1hL4y1w72r](https://www.bilibili.com/video/BV1hL4y1w72r)。
 
 
 !!! Tip
