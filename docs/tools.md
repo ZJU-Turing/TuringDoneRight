@@ -32,14 +32,14 @@ counter: True
 - [Bilibili](https://www.bilibili.com/)：许多外国课程的字幕版，国语优质课程录像及网课；
 - [YouTube](https://www.youtube.com/)：许多国外网课和课程录像 (YouTube 自带机翻 )；
 - [中国大学 mooc](https://www.icourse163.org/)：国内大学精心设计的网课 (含作业) 及课程录像；
-- [谷歌学术](https://scholar.google.com/)（附[国内镜像网](scholar.hedasudi.com/)）：国内外的学术论文搜索引擎；
+- [谷歌学术](https://scholar.google.com/)（附[国内镜像网](https://scholar.hedasudi.com/)）：国内外的学术论文搜索引擎；
 - [中国知网](https://cnki.net/)：中国最大的学术论文数据库；
 - [万方数据](https://www.wanfangdata.com.cn/)：同样有名的学术数据库；
 - [GitHub](https://github.com/github)：全球最大的开源网站，在这里推荐各位可以提前了解一下 Git 的常见操作，以下学习资料可供参考：
     - [Git/GitHub 及开源基础 | 实用技能拾遗第二讲 | 浙江大学竺可桢学院学业指导中心辅学精品课](https://www.bilibili.com/video/BV12u4y177vG)
     - [MIT Missing Semester](https://www.bilibili.com/video/BV1Wh4y1s7Lj)
 - [Cpp Reference](https://en.cppreference.com/w/)：C 语言的参考网站；
-- [Notion]([https://www.notion.so](https://www.notion.so/))：比较好用的在线笔记；
+- [Notion](https://www.notion.so/)：比较好用的在线笔记；
 - [GeoGebra](https://www.geogebra.org/calculator)：在线的几何画板，可以画出各种函数的图像；
 - [Wolfram | Alpha](https://www.wolframalpha.com/)：强大的在线计算器，可以处理包括积分、求极限等复杂运算；
 - [Draw.io](https://app.diagrams.net/)：在线画图软件，后续写 report 的时候如果需要绘制图论相关的图可以用此软件绘制；

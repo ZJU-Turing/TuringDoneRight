@@ -64,6 +64,8 @@ WebVPN 是一种通过网页跳转来实现外网访问内网的连接方式，�
 
 - **EasyConnect** 是一种较为简单但是**不太推荐**的连接方式，其存在诸多弊端。若感兴趣，可以参考 [EasyConnect 的使用方法](https://mp.weixin.qq.com/s/uAjXZqi7Oi7oTmtJGVdtMA)。
 
+- **aTrust** 是新版的 RVPN，根据[官网](https://zuits.zju.edu.cn/_t2014/2021/0615/c49798a2395843/page.psp)上的信息：“2025年5月19日起，RVPN系统不再支持SSH、远程桌面、Telnet、FTP等非Web类协议。如需使用相关服务，请通过新版RVPN系统访问。”因此可以参考[官网给出的教程](https://zuits.zju.edu.cn/_upload/article/files/4c/f2/dce9497346f385227e317912d3e0/385076f5-0101-4797-ba37-8a8b388aea31.pdf)尝试使用 aTrust。
+
 ## 校内连接
 
 ### 无线连接
