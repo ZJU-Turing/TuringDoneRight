@@ -73,18 +73,18 @@ counter: True
 ### 常用官方网站（一般需要校网）
 
 * 官方文件/通知 
-    - 本科生院网：https://bksy.zju.edu.cn
-    - 竺院办公网：http://office.ckc.zju.edu.cn（有一些资料在中文网上找不到）
-    - 综合服务网：http://zhfw.zju.edu.cn
-    - 学工部网站：http://www.xgb.zju.edu.cn
-    - 团委网站：https://zjutw.zju.edu.cn
+    - 本科生院网：<https://bksy.zju.edu.cn>
+    - 竺院办公网：<http://office.ckc.zju.edu.cn>（有一些资料在中文网上找不到）
+    - 综合服务网：<http://zhfw.zju.edu.cn>
+    - 学工部网站：<http://www.xgb.zju.edu.cn>
+    - 团委网站：<https://zjutw.zju.edu.cn>
 * 其他
-    - 素测网：https://ckcyouth.zju.edu.cn/zs/index（可以用于查询综素分）
-    - 素拓网：http://www.youth.zju.edu.cn/sztz/（可以用于查询二三课分）
-    - 正版软件：http://ms.zju.edu.cn/（可下载matlab等正版软件）
-    - 团在浙大：http://tzzd.zju.edu.cn/（可以用于报名社团精品课，借尧坤楼教室）
-    - 浙大图书馆：http://libweb.zju.edu.cn/（可以用于图书馆座位预约、馆藏查询与借书预约）
-* **这里推荐一个整合的网站：https://zjuers.com/ 里面基本上涵盖了平时会用到的所有网站。**
+    - 素测网：<https://ckcyouth.zju.edu.cn/zs/index>（可以用于查询综素分）
+    - 素拓网：<http://www.youth.zju.edu.cn/sztz/>（可以用于查询二三课分）
+    - 正版软件：<http://ms.zju.edu.cn/>（可下载matlab等正版软件）
+    - 团在浙大：<http://tzzd.zju.edu.cn/>（可以用于报名社团精品课，借尧坤楼教室）
+    - 浙大图书馆：<http://libweb.zju.edu.cn/>（可以用于图书馆座位预约、馆藏查询与借书预约）
+* **这里推荐一个整合的网站：<https://zjuers.com/> 里面基本上涵盖了平时会用到的所有网站。**
 
 ### 常用公众号
 
