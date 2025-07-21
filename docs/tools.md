@@ -48,6 +48,7 @@ counter: True
 - [Celechron](https://celechron.top/) ([附CC98上指南](https://www.cc98.org/topic/5807824))：Celechron 主要提供日程、课表、课程、成绩的查询功能，界面 UI 很舒服，使用很流畅。
 
 tips1：在[ZJUers](https://zjuers.com/)网站上还有一些有用的在线工具，如转换文件格式之类的网站，大家可以自己探索一下。
+
 tips2：以上部分网站需要科学上网才可访问，可以在CC98（下文会提及）或其他平台上了解如何科学上网。
 
 
