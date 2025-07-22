@@ -45,7 +45,7 @@ counter: True
 - [Draw.io](https://app.diagrams.net/)：在线画图软件，后续写 report 的时候如果需要绘制图论相关的图可以用此软件绘制；
 - [Table Translator](https://tablesgenerator.com/)：可以帮助对于 LaTeX 或者 html 语法不是很熟练的同学较为方便地生成一个表格的源码；
 - [Overleaf](https://www.overleaf.com/)：比较好用的在线 LaTex 编辑器，支持实时预览和多人协作等功能，可以用来比较方便地写论文和报告；
-- [Celechron](https://www.cc98.org/topic/5807824)：Celechron 主要提供日程、课表、课程、成绩、学在浙大作业ddl的查询功能。界面 UI 很舒服，使用很流畅，个人认为比求是潮 Mobile 要更好用。
+- [Celechron](https://www.cc98.org/topic/5807824)：Celechron 主要提供日程、课表、课程、成绩、学在浙大作业ddl的查询功能。界面 UI 很舒服，使用很流畅。
 
 ### 使用大语言模型
 
@@ -79,8 +79,7 @@ counter: True
     - 机构查询（黄页、网站）：https://www.zju.edu.cn/593/list.htm
     - 校务服务网：http://xwfw.zju.edu.cn/ （办事服务流程申请，相关文件）
 * 其他
-    - 素测网：https://ckcyouth.zju.edu.cn/zs/index （可以用于查询综素分）
-    - 素拓网：http://www.youth.zju.edu.cn/sztz/ （可以用于查询二三课分）
+    - 素拓网：https://sztz.zju.edu.cn/（可以用于查询二三课分）
     - 正版软件：http://ms.zju.edu.cn/ （可下载matlab等正版软件）
     - 团在浙大：http://tzzd.zju.edu.cn/ （可以用于报名社团精品课，借尧坤楼教室）
     - 浙大图书馆：http://libweb.zju.edu.cn/ （可以用于图书馆座位预约、馆藏查询与借书预约）
@@ -108,7 +107,6 @@ counter: True
 - **心理中心预约咨询热线**：88982525
 
 - **师生员工报警求助服务**
-
   - 受理时间：24小时
   - 受理机构：安全保卫处
   - 受理地方（紫金港）：东4安全保卫处值班室
