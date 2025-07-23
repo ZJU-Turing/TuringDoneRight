@@ -40,27 +40,27 @@ counter: True
 当然，数分和线代都是自己看看就好，“你们暑假自学一个假期的东西有可能是开学后一节课讲的，所以看了用处也不大”。
 
 ## 计算机部分具体建议
-作为图灵班的学生，这个假期如果在休息、放松、摸鱼之外有时间的话（这个假期放松玩才是关键，不要本末倒置），推荐先树立一个良好的计算机基础，正如翁恺老师所说，要让自己“看上去、闻上去”都像一个计算机人。更详细的内容请见：[如何让自己看上去、闻上去都像一个 CS 人](../cser)。
+作为图灵班的学生，这个假期如果在休息、放松、摸鱼之外有时间的话（这个假期放松玩才是关键，不要本末倒置），推荐先树立一个良好的计算机基础，正如翁恺老师所说，要让自己“看上去、闻上去”都像一个计算机人。更详细的内容请见：[如何让自己看上去、闻上去都像一个 CS 人](cser.md)。
 
 下面我分两类人来推荐一下暑期的计算机基础学习：
 
 ### 以前没有接触过计算机的同学
 
 1. 首先，一定要看的是经典的[《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)，这是你作为一个计算机人一定要具备的基本素养，这对于后续的学习生活都会有很大帮助，遇到问题时刻记住先 STFW、RTFM、RTFSC。并且建议将你的浏览器默认搜索引擎从百度、360、搜狗这类换掉，使用必应搜索或者谷歌搜索，这更有利于你获得你想要的答案；
-2. 其次，推荐看一看 “计算机教育中缺失的一课” The Missing Semester of Your CS Education，中文版主页在 https://missing-semester-cn.github.io/，B 站上应该有搬运的视频，后面部分有一些难，不过前面的一些命令行基础知识建议学一学。Windows 环境建议先装好 wsl2（Windows Subsystem for Linux），在里面体验一下命令行操作的快感；（哦对了，Win 系统的安装 Windows Terminal 喵，安装 Windows Terminal 谢谢喵）
+2. 其次，推荐看一看 “计算机教育中缺失的一课” The Missing Semester of Your CS Education，中文版主页在 <https://missing-semester-cn.github.io/>，B 站上应该有搬运的视频，后面部分有一些难，不过前面的一些命令行基础知识建议学一学。Windows 环境建议先装好 wsl2（Windows Subsystem for Linux），在里面体验一下命令行操作的快感；（哦对了，Win 系统的安装 Windows Terminal 喵，安装 Windows Terminal 谢谢喵）
 3. 再次，推荐学一学 markdown， LaTeX 或 Typst 这类文本标记语言，这对于后面记笔记、写作业、写报告、写论文都有很大帮助。<del>别惦记用你那 Word 用那等线字体、雅黑字体写那毫无美感的东西了</del>；
 
     !!! Note "简介"
         === "markdown"
             轻量级文本标记语言，语法很容易学，上网随便找一找就有很多教程。软件的话，经典有 typora 不过要付费了（其实也可以找以前未付费版本的安装包），新兴的有 MarkText 等开源 markdown 编辑器，或者可以直接使用 VSCode 的插件，建议自己多尝试尝试，选一个自己顺手的，再自己摸索摸索怎么让导出的效果更好看。另外 obsidian 也是一个很好的知识库软件，支持使用 markdown 编写，可以用这个来做自己的笔记。
         === "LaTeX"
-            LaTeX 是一个比较复杂的语言，教学资源也有很多，一些教程文档后续我们也会分享，一个在线的教程网站是 https://www.learnlatex.org/en/，可以看一看，主要还是靠自己查资料自己摸索吧。LaTeX 的公式语法是很常用的，在 markdown 里面也可以直接使用，建议特别学一下。如果不想配置本地 LaTeX 编译环境的话，也可以用 [Overleaf](https://www.overleaf.com/) 在线编辑。
+            LaTeX 是一个比较复杂的语言，教学资源也有很多，一些教程文档后续我们也会分享，一个在线的教程网站是 <https://www.learnlatex.org/en/>，可以看一看，主要还是靠自己查资料自己摸索吧。LaTeX 的公式语法是很常用的，在 markdown 里面也可以直接使用，建议特别学一下。如果不想配置本地 LaTeX 编译环境的话，也可以用 [Overleaf](https://www.overleaf.com/) 在线编辑。
         === "Typst"
             Typst 是近些年新兴的一个标记语言，语法比 LaTeX 简单的多，环境相比 LaTeX 轻量非常多，但是功能也相当强大，做好模版之后的使用有如 markdown 一样流畅丝滑，但是模版制作可能需要有一定的编程基础。VSCode 上有 Typst 的插件，可以直接使用。也可以直接在[官网](https://typst.app)进行编辑，[官方文档](https://typst.app/docs/)写的也非常清晰明白，除非语言不通不建议阅读社区提供的中文文档。想要较深地学习 Typst 也可以参考 [Typst Examples Book](https://sitandr.github.io/typst-examples-book/book/about.html)，里面有着丰富的例子，但是仍在施工，可能会有一些错误。
 
 4. 再者，可以在网上冲浪的时候看看学长学姐的博客，或是寻找一些优秀的教学资源，这里是 [ZJU 学长学姐的博客汇总](https://isshikihugh.github.io/zju-cs-asio/)和 [CS 自学指南](https://csdiy.wiki/)；
 5. 最后，如果你想要学习一下开学后要学的计算机课程，也就是“程序设计与算法基础”，那么你需要学的就是 C 语言。  
-    - C 语言的教学资源也有很多，不建议看国内的 C 语言书籍，可以看一看 C Primer Plus 这本书，或者[菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html)也是很好的选择。想要看课程学习的话推荐大网红翁恺老师的 [C 语言慕课](https://www.icourse163.org/course/0809ZJU007-9001)，他也是你们程算这门课的任课老师之一。
+    - C 语言的教学资源也有很多，不建议看国内的 C 语言书籍，可以看一看 C Primer Plus 这本书，或者[菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html)也是很好的选择。想要看课程学习的话推荐大网红翁恺老师的 [C 语言慕课](https://www.icourse163.org/course/0809ZJU007-9001)，他也是你们程算这门课的任课老师之一。在听课后，可以在 PTA 的 [ZOJ Problem Set](https://pintia.cn/problem-sets/91827364500/exam/problems/type/7)上做一做简单的练习，巩固知识也熟悉一下PTA的平台。
     - C 语言的开发环境搭建，可以参考 jzg 编写的[程序设计与算法基础课程文档](https://zhoutimemachine.github.io/2023_FPA/)。当然网上也有很多相关的教程，总而言之就是一句话：**千万别用 Dev-C++！！！**
     - 如果你想要学点其它的语言来入门的话，推荐有时间学一学 Python 语言，它相对于其他语言更好上手，可以打下一个小小的基础。零基础入门推荐《Python 编程：从入门到实践》这本书，以两周时间基本就可以学会使用了；当然 Python 的[官方教程](https://docs.python.org/3.11/index.html)也写的非常非常棒，中文翻译也很不错，建议有一定的基础之后阅读。Python 在后面的学习中也会是一个比较有用的工具，但现在不学后面也来得及，假期还是以休息为主。
 
@@ -71,7 +71,7 @@ counter: True
 
 另外，对于上面我说到的提问的智慧、命令行、markdown、LaTeX 之类的如果你不会的话（真的有 OIer 不会这些吗，不会吧不会吧），还是建议你去学一学。或者，你也可以选择上 [:material-github:GitHub](https://www.github.com) 看看有没有你感兴趣的项目，提前感受世界上最大的<del>同性交友网站</del>开源代码托管平台的魅力。
 
-除此之外，如果你真的不想再玩了，想学一点新的东西，推荐你学一学 Rust 语言，它的难度会比较大，但是是当前的大势所趋（反正我没好好学又后悔了）。
+如果你已经对前面提到的命令行、Git、Markdown 有了一定了解，可以尝试搭建自己的个人网站，在之后的学习中也可以用来管理笔记。推荐使用 [MkDocs](https://www.mkdocs.org/) 作为静态网站生成器，配合 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) 主题搭建。这里提供一个比较详细的视频教程：[BV1hL4y1w72r](https://www.bilibili.com/video/BV1hL4y1w72r)。
 
 
 !!! Tip

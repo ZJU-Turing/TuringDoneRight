@@ -96,7 +96,7 @@ CS，即 Computer Science。众所周知，国内的计算机本科教育问题�
 <div align=center> <img src="https://cdn.tonycrane.cc/turing2022/images/XHPWlzDfEo4CAvT.png"width = 40%/> </div>
 
 * Markdown 的具体语法其实是非常简单的，基本上知乎/Bilibili 随便搜一篇教程即可。如此类实践性的技能，只需要在最开始记住基本操作，在实践中不断深化，如果遇到问题再上网搜索即可。  
-这里贴出笔者同学的 Markdown 的 PPT，仅供参考  https://slides.tonycrane.cc/MarkdownLecture  
+这里贴出笔者同学的 Markdown 的 PPT，仅供参考  <https://slides.tonycrane.cc/MarkdownLecture>  
 **注：没挂梯子可能登不上去**
 
 ### LaTeX  
