@@ -60,7 +60,7 @@ counter: True
 
 4. 再者，可以在网上冲浪的时候看看学长学姐的博客，或是寻找一些优秀的教学资源，这里是 [ZJU 学长学姐的博客汇总](https://isshikihugh.github.io/zju-cs-asio/)和 [CS 自学指南](https://csdiy.wiki/)；
 5. 最后，如果你想要学习一下开学后要学的计算机课程，也就是“程序设计与算法基础”，那么你需要学的就是 C 语言。  
-    - C 语言的教学资源也有很多，不建议看国内的 C 语言书籍，可以看一看 C Primer Plus 这本书，或者[菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html)也是很好的选择。想要看课程学习的话推荐大网红翁恺老师的 [C 语言慕课](https://www.icourse163.org/course/0809ZJU007-9001)，他也是你们程算这门课的任课老师之一。
+    - C 语言的教学资源也有很多，不建议看国内的 C 语言书籍，可以看一看 C Primer Plus 这本书，或者[菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html)也是很好的选择。想要看课程学习的话推荐大网红翁恺老师的 [C 语言慕课](https://www.icourse163.org/course/0809ZJU007-9001)，他也是你们程算这门课的任课老师之一。在听课后，可以在 PTA 的 [ZOJ Problem Set](https://pintia.cn/problem-sets/91827364500/exam/problems/type/7)上做一做简单的练习，巩固知识也熟悉一下PTA的平台。
     - C 语言的开发环境搭建，可以参考 jzg 编写的[程序设计与算法基础课程文档](https://zhoutimemachine.github.io/2023_FPA/)。当然网上也有很多相关的教程，总而言之就是一句话：**千万别用 Dev-C++！！！**
     - 如果你想要学点其它的语言来入门的话，推荐有时间学一学 Python 语言，它相对于其他语言更好上手，可以打下一个小小的基础。零基础入门推荐《Python 编程：从入门到实践》这本书，以两周时间基本就可以学会使用了；当然 Python 的[官方教程](https://docs.python.org/3.11/index.html)也写的非常非常棒，中文翻译也很不错，建议有一定的基础之后阅读。Python 在后面的学习中也会是一个比较有用的工具，但现在不学后面也来得及，假期还是以休息为主。
 
@@ -71,7 +71,7 @@ counter: True
 
 另外，对于上面我说到的提问的智慧、命令行、markdown、LaTeX 之类的如果你不会的话（真的有 OIer 不会这些吗，不会吧不会吧），还是建议你去学一学。或者，你也可以选择上 [:material-github:GitHub](https://www.github.com) 看看有没有你感兴趣的项目，提前感受世界上最大的<del>同性交友网站</del>开源代码托管平台的魅力。
 
-除此之外，如果你真的不想再玩了，想学一点新的东西，推荐你学一学 Rust 语言，它的难度会比较大，但是是当前的大势所趋（反正我没好好学又后悔了）。
+如果你已经对前面提到的命令行、Git、Markdown 有了一定了解，可以尝试搭建自己的个人网站，在之后的学习中也可以用来管理笔记。推荐使用 [MkDocs](https://www.mkdocs.org/) 作为静态网站生成器，配合 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/) 主题搭建。这里提供一个比较详细的视频教程：[BV1hL4y1w72r](https://www.bilibili.com/video/BV1hL4y1w72r)。
 
 
 !!! Tip
