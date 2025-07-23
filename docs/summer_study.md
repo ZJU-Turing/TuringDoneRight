@@ -60,7 +60,7 @@ counter: True
 
 4. 再者，可以在网上冲浪的时候看看学长学姐的博客，或是寻找一些优秀的教学资源，这里是 [ZJU 学长学姐的博客汇总](https://isshikihugh.github.io/zju-cs-asio/)和 [CS 自学指南](https://csdiy.wiki/)；
 5. 最后，如果你想要学习一下开学后要学的计算机课程，也就是“程序设计与算法基础”，那么你需要学的就是 C 语言。  
-    - C 语言的教学资源也有很多，不建议看国内的 C 语言书籍，可以看一看 C Primer Plus 这本书，或者[菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html)也是很好的选择。想要看课程学习的话推荐大网红翁恺老师的 [C 语言慕课](https://www.icourse163.org/course/0809ZJU007-9001)，他也是你们程算这门课的任课老师之一。在听课后，可以在 PTA 的 [C 语言程序设计题目集](https://pintia.cn/problem-sets/1298273728383766528/exam/problems/type/7)上做一做简单的练习，巩固知识也熟悉一下PTA的平台。
+    - C 语言的教学资源也有很多，不建议看国内的 C 语言书籍，可以看一看 C Primer Plus 这本书，或者[菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html)也是很好的选择。想要看课程学习的话推荐大网红翁恺老师的 [C 语言慕课](https://www.icourse163.org/course/0809ZJU007-9001)，他也是你们程算这门课的任课老师之一。在听课后，可以在 PTA 的 [ZOJ Problem Set](https://pintia.cn/problem-sets/91827364500/exam/problems/type/7)上做一做简单的练习，巩固知识也熟悉一下PTA的平台。
     - C 语言的开发环境搭建，可以参考 jzg 编写的[程序设计与算法基础课程文档](https://zhoutimemachine.github.io/2023_FPA/)。当然网上也有很多相关的教程，总而言之就是一句话：**千万别用 Dev-C++！！！**
     - 如果你想要学点其它的语言来入门的话，推荐有时间学一学 Python 语言，它相对于其他语言更好上手，可以打下一个小小的基础。零基础入门推荐《Python 编程：从入门到实践》这本书，以两周时间基本就可以学会使用了；当然 Python 的[官方教程](https://docs.python.org/3.11/index.html)也写的非常非常棒，中文翻译也很不错，建议有一定的基础之后阅读。Python 在后面的学习中也会是一个比较有用的工具，但现在不学后面也来得及，假期还是以休息为主。
 
