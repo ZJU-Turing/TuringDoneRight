@@ -269,9 +269,11 @@ fold_toc: True
 
 参与班委工作和学生组织工作，按照工作表现可以在思想政治素质考评中给予不同程度的加分（虽然干事级别不会太多，但是后面继续担任部长、主席等加分会较多）。
 
-下面附一张24级的社会工作加分表：
+下面附一张24级的社会工作加分表（更具体的详见[院网通知](http://office.ckc.zju.edu.cn/2025/0519/c34986a3052528/page.htm)）：
 
-![](images/work_bonus.png)
+![](images/work_bonus.light.svg#only-light)
+
+![](images/work_bonus.dark.svg#only-dark)
 
 ### 班委设置
 
