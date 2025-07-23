@@ -272,7 +272,6 @@ fold_toc: True
 下面附一张24级的社会工作加分表（更具体的详见[院网通知](http://office.ckc.zju.edu.cn/2025/0519/c34986a3052528/page.htm)）：
 
 ![](images/work_bonus.light.svg#only-light)
-
 ![](images/work_bonus.dark.svg#only-dark)
 
 ### 班委设置
