@@ -1,4 +1,4 @@
-mkdocs==1.4.3
-mkdocs-material==9.1.19
+mkdocs==1.6.1
+mkdocs-material==9.6.15
 mkdocs-heti-plugin==0.1.5
 mkdocs-statistics-plugin==0.1.2
