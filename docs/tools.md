@@ -4,9 +4,6 @@ counter: True
 
 # 实用工具推荐
 
-!!! Warning
-    该页面正在施工ing
-
 !!! abstract
     本文旨在向刚刚进入图灵班的学弟学妹们介绍和推荐一些在大学的学习和生活中比较实用的小工具和小软件，希望能对大家有所帮助！
 
@@ -31,7 +28,7 @@ counter: True
 
 - [Google](https://www.google.com/)：任何课程的名校讲义、录像等一切资源，以及高质量的知识检索； 
 - [MIT ocw](https://ocw.mit.edu/)：MIT 开设的许多课程的完整录像及作业、讲义和其他材料； 
-- [Z-library](https://z-library-project.com/)：（指路官方域名）上面有大量中外书籍的电子版（**注意甄别某些看似一致的钓鱼网站！**）；
+- [Z-library](https://z-library-project.com/)：（给出了官方域名的指路）上面有大量中外书籍的电子版（**注意甄别某些看似一致的钓鱼网站！**）；
 - [Bilibili](https://www.bilibili.com/)：许多外国课程的字幕版，国语优质课程录像及网课；
 - [YouTube](https://www.youtube.com/)：许多国外网课和课程录像 (YouTube 自带机翻 )；
 - [中国大学 mooc](https://www.icourse163.org/)：国内大学精心设计的网课 (含作业) 及课程录像；
@@ -50,9 +47,8 @@ counter: True
 - [Overleaf](https://www.overleaf.com/)：比较好用的在线 LaTex 编辑器，支持实时预览和多人协作等功能，可以用来比较方便地写论文和报告；
 - [Celechron](https://celechron.top/) ([附CC98上指南](https://www.cc98.org/topic/5807824))：Celechron 主要提供日程、课表、课程、成绩的查询功能，界面 UI 很舒服，使用很流畅。
 
-tips1：在[ZJUers](https://zjuers.com/)网站上还有一些有用的在线工具，如转换文件格式之类的网站，大家可以自己探索一下。
-
-tips2：以上部分网站需要科学上网才可访问，可以在CC98（下文会提及）或其他平台上了解如何科学上网。
+> - 在 [ZJUers](https://zjuers.com/) 网站上还有一些有用的在线工具没有列出，如转换文件格式之类的网站，大家可以自己探索一下。
+> - 以上部分网站需要科学上网才可访问，可以在 CC98 或其他平台上了解如何科学上网。
 
 ### 使用大语言模型
 
@@ -81,8 +77,7 @@ tips2：以上部分网站需要科学上网才可访问，可以在CC98（下�
     - 学工部网站：<http://www.xgb.zju.edu.cn>
     - 团委网站：<https://zjutw.zju.edu.cn>
 * 其他
-    - 素测网：<https://ckcyouth.zju.edu.cn/zs/index>（可以用于查询综素分）
-    - 素拓网：<http://www.youth.zju.edu.cn/sztz/>（可以用于查询二三课分）
+    - 素拓网：<https://sztz.zju.edu.cn/dekt>（可以用于查询二三课分）
     - 正版软件：<http://ms.zju.edu.cn/>（可下载matlab等正版软件）
     - 团在浙大：<http://tzzd.zju.edu.cn/>（可以用于报名社团精品课，借尧坤楼教室）
     - 浙大图书馆：<http://libweb.zju.edu.cn/>（可以用于图书馆座位预约、馆藏查询与借书预约）
@@ -125,11 +120,6 @@ ps: 也可以用微信小程序：98小板凳（无需校园网，回答10道问
 在这里，你可以交流任何问题，可以找到各种学习资源，可以找到留学、找工作等经验分享,可以看到帅气 xgg 漂亮 xjj，可以看到各种令人震撼的心灵故事，<del>还可以在这里找到属于自己的缘分</del>。
 
 总之，my cc98, my home!
-
-#### 朵朵校友圈
-
-朵朵校友圈是由云朵朵微信个人号发展而来的校园互助信息平台，主要是微信小程序的形式。  
-主要功能包括但不限于提供校园公益互助信息发布平台，树洞、吐槽等匿名功能，以及以在校生活、学习为核心的学校信息查询与处理。
 
 ### 浙大钉的各项功能介绍
 

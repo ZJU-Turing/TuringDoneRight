@@ -24,7 +24,7 @@ counter: True
 你们的录取通知书附带的小册子里面可能会有这个课程的链接，这是学校帮大家录制的基础数学课，是大学知识和高中知识的衔接，可以看一看。（好像还有什么小测，不过这里的小测不计入任何课程的评分，甚至老师也不会看，单纯是让你自己了解一下自己的水平）
 
 ### 数学分析
-可以借一本或者自己买一本数分的教材（《数学分析》陈纪修，大概率你们还是这本教材），网课建议听苏德矿老师慕课的微积分，也可以听一下复旦大学陈纪修教授的[数学分析课程](https://www.bilibili.com/video/BV15v411g7VP)（教材作者亲自上课，含金量拉满了），有一定基础<del>（想法）</del>的同学也可以考虑看一看梅加强先生的《数学分析》或者 Rudin 的《数学分析原理》，这两本书深度会更深，当然难度也会更高。你们好几位学长做了有内容有质量的笔记，如果自己觉得学的差不多了就可以看看：
+可以借一本或者自己买一本数分的教材（前几级的教材是陈纪修的《数学分析》，24 级变成了过程更简略的华东师大版《数学分析》，没有很高要求的话建议买后者），网课建议听苏德矿老师慕课的微积分，也可以听一下复旦大学陈纪修教授的[数学分析课程](https://www.bilibili.com/video/BV15v411g7VP)（教材作者亲自上课，含金量拉满了），有一定基础<del>（想法）</del>的同学也可以考虑看一看梅加强先生的《数学分析》或者 Rudin 的《数学分析原理》，这两本书深度会更深，当然难度也会更高。你们好几位学长做了有内容有质量的笔记，如果自己觉得学的差不多了就可以看看：
 
 - [数分 Ⅰ 笔记](https://github.com/Intelligent-BOT/hello-world/blob/main/ZJU%E8%B5%84%E6%96%99/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90I%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.pdf)和[备用链接](https://zhuanlan.zhihu.com/p/450978259)
 - [xg 的数分 Ⅰ 笔记](https://note.tonycrane.cc/assets/files/%E6%95%B0%E5%AD%A6%E5%88%86%E6%9E%90%EF%BC%88%E7%94%B2%EF%BC%89I%EF%BC%88H%EF%BC%89%E7%AC%94%E8%AE%B0.pdf)
@@ -35,7 +35,7 @@ counter: True
 - [线代 Ⅰ 笔记](https://github.com/Intelligent-BOT/hello-world/blob/main/ZJU%E8%B5%84%E6%96%99/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.pdf)和[备用链接](https://zhuanlan.zhihu.com/p/450971993)
 - [xg 的线代 Ⅰ 笔记](https://note.tonycrane.cc/assets/files/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20I%EF%BC%88H%EF%BC%89%E7%AC%94%E8%AE%B0.pdf)
 
-此外，在此隆重推出图灵 2020 级的 wyy 主编的“线性代数荣誉课辅学讲义” [:material-github:yhwu-is/Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone)，目前已有 v0.4 版本，覆盖了图灵人需要修读的线代 I（H）与线代 II（H）的绝大部分内容（wyy, yyds），可以先下载[电子版](https://github.com/yhwu-is/Linear-Algebra-Left-Undone/releases/tag/v0.4)看一看，从而对线性代数未竟之美有一个初步的认知（确信）。
+此外，在此隆重推出图灵 2020 级的 wyy 主编的“线性代数荣誉课辅学讲义” [:material-github:yhwu-is/Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone)，目前已有 v0.6 版本，覆盖了图灵人需要修读的线代 I（H）与线代 II（H）的绝大部分内容（wyy, yyds），可以先下载[电子版](https://github.com/yhwu-is/Linear-Algebra-Left-Undone/releases/tag/v0.6)看一看，从而对线性代数未竟之美有一个初步的认知（确信）。
 
 当然，数分和线代都是自己看看就好，“你们暑假自学一个假期的东西有可能是开学后一节课讲的，所以看了用处也不大”。
 
@@ -64,7 +64,7 @@ counter: True
     - C 语言的开发环境搭建，可以参考 jzg 编写的[程序设计与算法基础课程文档](https://zhoutimemachine.github.io/2023_FPA/)。当然网上也有很多相关的教程，总而言之就是一句话：**千万别用 Dev-C++！！！**
     - 如果你想要学点其它的语言来入门的话，推荐有时间学一学 Python 语言，它相对于其他语言更好上手，可以打下一个小小的基础。零基础入门推荐《Python 编程：从入门到实践》这本书，以两周时间基本就可以学会使用了；当然 Python 的[官方教程](https://docs.python.org/3.11/index.html)也写的非常非常棒，中文翻译也很不错，建议有一定的基础之后阅读。Python 在后面的学习中也会是一个比较有用的工具，但现在不学后面也来得及，假期还是以休息为主。
 
-此外，在这里推荐一下学曾祖 xg 和学爷组箱子老师的 [2023 年秋冬学期「实用技能拾遗」课程](https://slides.tonycrane.cc/PracticalSkillsTutorial/2023-fall-ckc/)，介绍了一系列好用、常用的工具（包括上面提及的 markdown、LaTeX 等），以及相关的使用教程，B 站上也有相应的回放（关注[@鹤翔万里](https://space.bilibili.com/171431343)谢谢喵~）。
+此外，在这里推荐一下 21 级学长 xg 和 22 级学长箱子老师的 [2023 年秋冬学期「实用技能拾遗」课程](https://slides.tonycrane.cc/PracticalSkillsTutorial/2023-fall-ckc/)，介绍了一系列好用、常用的工具（包括上面提及的 markdown、LaTeX 等），以及相关的使用教程，B 站上也有相应的回放（关注[@鹤翔万里](https://space.bilibili.com/171431343)谢谢喵~）。
 
 ### 对于有计算机基础的前 OIer
 你们肯定是有比较扎实的 <del>C 语言</del> C++ 基础了，但是经过了一个高三，可能会有些遗忘，在暑假里可以捡一捡自己的编程基础。但是也请注意大一秋冬修读的程序设计与算法基础课程使用的是 C 语言，因此各位 OIer 需要注意一下 C 与 C++ 的语法区别，有时间的话也可以改改自己的码风。
