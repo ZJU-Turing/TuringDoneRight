@@ -35,7 +35,7 @@ counter: True
 - [线代 Ⅰ 笔记](https://github.com/Intelligent-BOT/hello-world/blob/main/ZJU%E8%B5%84%E6%96%99/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%E6%9C%9F%E6%9C%AB%E5%A4%8D%E4%B9%A0.pdf)和[备用链接](https://zhuanlan.zhihu.com/p/450971993)
 - [xg 的线代 Ⅰ 笔记](https://note.tonycrane.cc/assets/files/%E7%BA%BF%E6%80%A7%E4%BB%A3%E6%95%B0%20I%EF%BC%88H%EF%BC%89%E7%AC%94%E8%AE%B0.pdf)
 
-此外，在此隆重推出图灵 2020 级的 wyy 主编的“线性代数荣誉课辅学讲义” [:material-github:yhwu-is/Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone)，目前已有 v0.6 版本，覆盖了图灵人需要修读的线代 I（H）与线代 II（H）的绝大部分内容（wyy, yyds），可以先下载[电子版](https://github.com/yhwu-is/Linear-Algebra-Left-Undone/releases/tag/v0.6)看一看，从而对线性代数未竟之美有一个初步的认知（确信）。
+此外，在此隆重推出图灵 2020 级的 wyy 主编的“线性代数荣誉课辅学讲义” [:material-github:yhwu-is/Linear-Algebra-Left-Undone](https://github.com/yhwu-is/Linear-Algebra-Left-Undone)，目前已有 v0.6 版本，覆盖了图灵人需要修读的线代 I（H）与线代 II（H）的绝大部分内容（wyy, yyds），可以先下载[电子版](https://github.com/yhwu-is/Linear-Algebra-Left-Undone/releases/latest)看一看，从而对线性代数未竟之美有一个初步的认知（确信）。
 
 当然，数分和线代都是自己看看就好，“你们暑假自学一个假期的东西有可能是开学后一节课讲的，所以看了用处也不大”。
 
