@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block extrahead %}
+    {% if page and page.meta and page.meta.counter %}
+        <link rel="stylesheet" href="https://cdn.tonycrane.cc/turing2022/css/counter.css">
+    {% endif %}
+{% endblock %}
+
+{% block site_nav %}
+    {{ super() }}
+    {% if "toc.integrate" not in features %}
+        {% if page and page.meta and page.meta.fold_toc %}
+            <script src="{{ 'js/toc.js' | url }}" defer></script>
+            <link rel="stylesheet" href="{{ 'css/fold_toc.css' | url }}">
+        {% endif %}
+    {% endif %}
+{% endblock %}

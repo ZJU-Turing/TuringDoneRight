@@ -2,13 +2,14 @@
 
 [![](https://github.com/ZJU-Turing/TuringDoneRight/actions/workflows/deploy.yml/badge.svg)](https://turing2025.tonycrane.cc/)
 
-> **Warning** 正在建设中
+> [!Warning]
+> 正在建设中
 
 ## 本地构建
 
 - 安装依赖
     ```sh
-    $ pip install -r requirements.txt # 注意固定版本号可能会干扰原有环境
+    $ pip install -r requirements.txt
     ```
 - 开启本地预览服务
     ```sh

@@ -26,11 +26,6 @@ theme:
   palette:
     - scheme: default
 
-extra:
-  analytics:
-    provider: custom
-    property: G-G594CHT348
-
 markdown_extensions:
   - toc:
       permalink: true
