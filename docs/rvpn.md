@@ -24,7 +24,7 @@ counter: True
 进入网站 [myvpn.zju.edu.cn](https://myvpn.zju.edu.cn/) 或者通过浙大钉—工作台—全部—网络缴费进入信息技术中心网站，这里将浙大钉换为钉钉也可以。
 
 !!! Note "网页版激活界面"
-    <figure markdown="1">![](images/activate.png)</figure>
+    ![](images/activate.png)
 
 第一次使用 VPN 之前先要激活账号，点击“激活账号”可跳转到浙江大学统一身份认证并激活（可能会用到校园卡密码，身份证后六位）。
 
@@ -57,11 +57,11 @@ WebVPN 是一种通过网页跳转来实现外网访问内网的连接方式，�
 
 首先进入 [webvpn.zju.edu.cn](https://webvpn.zju.edu.cn/)，可以看到以下界面，然后输入用户名及网络密码并登录，这里的网络密码可能与统一身份认证密码不同。
 
-<figure markdown="1">![](images/WebVPN-1.png)</figure>
+![](images/WebVPN-1.png)
 
 成功登录后，在以下界面红框所圈的搜索框输入要访问的学校网址即可。（例如 [cc98.org](https://www.cc98.org/)）
 
-<figure markdown="1">![](images/WebVPN-2.png)</figure>
+![](images/WebVPN-2.png)
 
 
 ### RVPN
@@ -79,7 +79,7 @@ WebVPN 是一种通过网页跳转来实现外网访问内网的连接方式，�
 ZJUWLAN 在 Wi-Fi 里可以直接找到并连接，但是需要认证，一般在连接后会弹出认证窗口，在填写好用户名、密码后，即可正常上网。一次认证有效时长为 14 天，到期后需要重新认证。
 
 !!! Note "网页版认证界面"
-    <figure markdown="1">![](images/net3_zju.png)</figure>
+    ![](images/net3_zju.png)
 
 如果没有弹出的话也可以直接访问 [net3.zju.edu.cn](http://net3.zju.edu.cn)，进入认证界面。
 
@@ -89,21 +89,21 @@ ZJUWLAN-Secure 在连接时，在输入所用的用户名、密码后即可完�
     点击桌面右下方菜单栏中的无线网图标，选择 ZJUWLAN-Secure 进行连接，在输入用户名及密码后，点击连接后即可上网。
     ???+ General "操作步骤"
         === "Step 1"
-            <figure markdown="1">![](images/ZJUWLAN-Secure-Windows-1.png)</figure>
+            ![](images/ZJUWLAN-Secure-Windows-1.png)
         === "Step 2"
-            <figure markdown="1">![](images/ZJUWLAN-Secure-Windows-2.png)</figure>
+            ![](images/ZJUWLAN-Secure-Windows-2.png)
         === "Step 3"
-            <figure markdown="1">![](images/ZJUWLAN-Secure-Windows-3.png)</figure>
+            ![](images/ZJUWLAN-Secure-Windows-3.png)
         === "Step 4"
-            <figure markdown="1">![](images/ZJUWLAN-Secure-Windows-4.png)</figure>
+            ![](images/ZJUWLAN-Secure-Windows-4.png)
 
 === "Android"
     在手机中进入 WLAN 连接页面，选择 ZJUWLAN-Secure 进行连接，之后的阶段 2 身份认证和 CA 证书均选择**不认证**，在输入用户名和密码后，点击连接即可。
     ???+ General "操作步骤"
         === "Step 1"
-            <figure markdown="1">![](images/ZJUWLAN-Secure-Android-1.jpg)</figure>
+            ![](images/ZJUWLAN-Secure-Android-1.jpg)
         === "Step 2"
-            <figure markdown="1">![](images/ZJUWLAN-Secure-Android-2.jpg)</figure>
+            ![](images/ZJUWLAN-Secure-Android-2.jpg)
 
 ### 有线连接
 

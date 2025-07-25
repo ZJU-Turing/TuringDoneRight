@@ -242,3 +242,10 @@ input#mkdocs-content-password {
 .md-typeset .emojione, .md-typeset .gemoji, .md-typeset .twemoji {
   vertical-align: sub;
 }
+
+.md-typeset img{
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
