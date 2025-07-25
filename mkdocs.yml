@@ -82,14 +82,14 @@ plugins:
 nav:
   - 主页: index.md
   - 写在前面的话: preface.md
-  # - 新生入学流程: checkin.md
-  # - 学长组 Q&A 总结: qa.md
-  # - 暑假购机推荐: machine.md
-  # - 新生防诈骗指南: anti_fraud.md
-  # - 暑假学习建议: summer_study.md
-  # - 校网连接指南: rvpn.md
-  # - 实用工具推荐: tools.md
-  # - 校园生活指南: living.md
+  - 新生入学流程: checkin.md
+  - 学长组 Q&A 总结: qa.md
+  - 暑假购机推荐: machine.md
+  - 新生防诈骗指南: anti_fraud.md
+  - 暑假学习建议: summer_study.md
+  - 校网连接指南: rvpn.md
+  - 实用工具推荐: tools.md
+  - 校园生活指南: living.md
   # - 图灵班选课指南: course_selection.md
-  # - 课程学习建议: course_advice.md
-  # - 成为一个合格的 CS 人: cser.md
+  - 课程学习建议: course_advice.md
+  - 成为一个合格的 CS 人: cser.md
