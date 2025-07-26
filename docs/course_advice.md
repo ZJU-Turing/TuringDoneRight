@@ -129,12 +129,9 @@ counter: True
 
 **体测是评奖评优的重要依据**，至少需要合格才能获得奖学金，良好才能获得一等（及更高等）奖学金，平均分 50 也是毕业硬指标。（注意大一上体测用于大一学年奖学金评选，大一下及大二上体测用于大二学年奖学金评选，以此类推）项目和评分标准如下图所示（其实浙大体艺上有）：
 
-<div align="center">
-    <img src="images/PE_1.png">
-</div>
-<div align="center">
-    <img src="images/PE_2.png">
-</div>
+![](images/PE_1.png)
+
+![](images/PE_2.png)
 
 注意下载**浙大体艺** APP，打卡、体测和体育成绩、上课签到也会在这个 APP 上进行。
 
