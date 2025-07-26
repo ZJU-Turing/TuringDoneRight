@@ -249,3 +249,7 @@ input#mkdocs-content-password {
   display: block;
   margin: 0 auto;
 }
+
+.icon-star {
+  color: #ffac32;
+}
