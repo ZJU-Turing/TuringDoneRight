@@ -67,7 +67,7 @@ counter: True
 
 #### Lazuli 浙江大学教务系统增强插件
 
-[Lazuli](https://zjuers.com/rd?url=https://www.cc98.org/topic/5821806&mode=1) 是由 CC98 论坛用户 [@adsr](https://zjuers.com/rd?url=https://www.cc98.org/user/id/672666&mode=1) 开发的一款教务系统插件，该插件拥有査老师数据插入，自动下拉，课程高亮等便于选课的功能，具体的安装和使用方法可以参考 [Lazuli -新时代浙江大学教务系统增强插件 - CC98论坛](https://www.cc98.org/topic/5821806) 原帖。有些同学可能还听说过求是潮开发的 Enroll 选课助手，但是 Enroll 存在诸多问题，使用体验不佳，因此在这里不多做推荐了。
+[Lazuli](https://zjuers.com/rd?url=https://www.cc98.org/topic/5821806&mode=1) 是由 CC98 论坛用户 [@adsr](https://zjuers.com/rd?url=https://www.cc98.org/user/id/672666&mode=1) 开发的一款教务系统插件，该插件拥有査老师数据插入，自动下拉，课程高亮等便于选课的功能，具体的安装和使用方法可以参考原帖：[Lazuli -新时代浙江大学教务系统增强插件 - CC98论坛](https://www.cc98.org/topic/5821806)。有些同学可能还听说过求是潮开发的 Enroll 选课助手，但是 Enroll 存在诸多问题，使用体验不佳，因此在这里不多做推荐了。
 
 #### 关于选课助手的说明
 
