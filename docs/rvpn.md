@@ -4,14 +4,9 @@ counter: True
 
 # 校园网连接指南
 
-!!! Warning
-    该页面正在施工ing
-
-    由于 ZJU 正在搞 aTrust 逐步取代之前的 EasyConnect，原来的 RVPN (ZJU Connect) 禁用了大量端口，本页内容需要一定修改。这里暂时指路学爷组 xg 的 [docker 部署 atrust 方法](https://note.tonycrane.cc/web/devops/tunnel/#zju-connect). 现阶段来说，使用 WebVPN 应该就够用了，感兴趣的同学可以阅读有关 RVPN 的内容。
-
 !!! Note "序言"
     - 校园网是必需的，在办理好校园网后，才可以使用浙大里的无线网以及访问浙大校内资源。
-    - 校园网需要先激活再缴费（第一个月可以不用缴费）。在校外可以选择 WebVPN 或 aTrust 连接访问校内资源，进入校园后可以采用无线等方式更便捷的连接校网。其中，使用无线网及 WebVPN 就足以满足一定的需求了。
+    - 校园网需要先激活再缴费（第一个月可以不用缴费）。在校外可以选择 WebVPN 或 aTrust 等方式连接访问校内资源，进入校园后可以采用无线等方式更便捷的连接校网。其中，使用无线网及 WebVPN 就足以满足一定的需求了。
     - 本文中提到的网络密码不一定和浙江大学统一身份认证所用密码相同，在具体使用时还请注意。
 
 ## 激活及缴费
@@ -37,11 +32,11 @@ counter: True
 
 套餐一共有三种，其费用及对应带宽见下面表格，不过由于校园网络存在升级，具体数据仅供参考。
 
-|费用（元 / 月）|带宽（Mbps）|
-|:---:|:---:|
-| 10 | 10 |
-| 30 | 50 |
-| 50 | 100|
+| 费用（元 / 月） | 带宽（Mbps） |
+| :-------------: | :----------: |
+|       10        |      10      |
+|       30        |      50      |
+|       50        |     100      |
 
 个人感觉 **10 元/月** 已经足够日常使用了。 
 
@@ -49,10 +44,12 @@ counter: True
 
 ## 校外连接
 
-校外连接方式主要有 WebVPN 和 RVPN 两种。
+校外连接方式主要有 WebVPN、 RVPN 和 ZJU-Connect 三种。
 
 ### WebVPN
 
+- **适用场景**：仅需访问网页类校内资源（如 CC98、选课系统、学工系统等）。
+ 
 WebVPN 是一种通过网页跳转来实现外网访问内网的连接方式，因此无需安装软件即可访问内网资源。
 
 首先进入 [webvpn.zju.edu.cn](https://webvpn.zju.edu.cn/)，可以看到以下界面，然后输入用户名及网络密码并登录，这里的网络密码可能与统一身份认证密码不同。
@@ -66,9 +63,17 @@ WebVPN 是一种通过网页跳转来实现外网访问内网的连接方式，�
 
 ### RVPN
 
-**aTrust** 是新版的 RVPN，根据[官网](https://zuits.zju.edu.cn/_t2014/2021/0615/c49798a2395843/page.psp)上的信息：“2025年5月19日起，RVPN系统不再支持SSH、远程桌面、Telnet、FTP等非Web类协议。如需使用相关服务，请通过新版RVPN系统访问。”因此可以参考[官网给出的教程](https://zuits.zju.edu.cn/_upload/article/files/4c/f2/dce9497346f385227e317912d3e0/385076f5-0101-4797-ba37-8a8b388aea31.pdf)尝试使用 aTrust。
+- **适用场景**：日常使用、需要进行 SSH 连接、远程桌面 (RDP)、数据库直连等大部分需求，“傻瓜式”开箱即用
 
-> **ZJU Connect** 是**比较推荐**的一种校外连接方式，相较于官方推荐的 aTrust 以及之前的 EasyConnect 有很多好处。但是由于其基于旧的 RVPN 架构，在 EasyConnect 被淘汰、aTrust 上新之后 ZJU Connect 暂时处于“被 ban 掉”的状态。不过最近该项目对于新 RVPN 的适配做出了一定突破（处于测试阶段），感兴趣的同学可以阅读相关的[帖子](https://www.cc98.org/topic/6214942)与 [issue](https://github.com/Mythologyli/zju-connect/issues/75).
+**aTrust** 是新版的 RVPN，根据[官网](https://zuits.zju.edu.cn/_t2014/2021/0615/c49798a2395843/page.psp)上的信息：“2025年5月19日起，RVPN系统不再支持SSH、远程桌面、Telnet、FTP等非Web类协议。如需使用相关服务，请通过新版RVPN系统访问。”（旧版的EasyConnect已经被淘汰）因此可以参考[官网给出的教程](https://zuits.zju.edu.cn/_upload/article/files/4c/f2/dce9497346f385227e317912d3e0/385076f5-0101-4797-ba37-8a8b388aea31.pdf)尝试使用 aTrust。如果有需要在docker上部署aTrust，可以参考学爷组 xg 的 [docker 部署 atrust 方法](https://note.tonycrane.cc/web/devops/tunnel/#zju-atrust)。
+
+### ZJU-Connect
+
+- **适用场景**：需要同时访问校内服务器和资源，和代理服务器访问国际学术网站，外网资源，国外大模型；适合具有一定网络配置能力和经验的同学。
+
+**ZJU-Connect** 是由社区开源维护的第三方轻量级 VPN 工具，是**比较推荐**的一种校外连接方式，相较于官方推荐的 aTrust 以及之前的 EasyConnect 有很多好处。目前完整支持 **EasyConnect** 与 **aTrust** 双协议，工具已经相对成熟，可以选择在本地监听 SOCKS5/HTTP 代理端口或开启 TUN 虚拟网卡模式。结合 Clash / Clash Verge 等代理软件的规则分流，可以实现**校内资源走 ZJU Connect，外网/梯子流量走常规节点**，无需频繁手动开关 VPN。
+
+感兴趣或有进阶需求，可以参考 [ZJU-Connect Github 项目仓库](https://github.com/Mythologyli/zju-connect)，以及校园论坛相关帖子 [ClashVerge + ZJU-Connect](https://www.cc98.org/topic/6372895) 和 [FLClash + ZJU-Connect](https://www.cc98.org/topic/6427029)
 
 ## 校内连接
 
