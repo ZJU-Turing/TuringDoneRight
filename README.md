@@ -1,27 +1,28 @@
-# 图灵 2025 级学长组资料汇总网站
+# 图灵 2026 级学长组资料汇总网站
 
-[![](https://github.com/ZJU-Turing/TuringDoneRight/actions/workflows/deploy.yml/badge.svg)](https://turing2025.tonycrane.cc/)
+[![](https://github.com/ZJU-Turing/TuringDoneRight/actions/workflows/deploy.yml/badge.svg)](https://turing2026.tonycrane.cc/)
 
 > [!Warning]
 > 正在建设中
 
 ## 本地构建
 
-- 安装依赖
+- 安装 [uv](https://docs.astral.sh/uv/getting-started/installation/) 后，同步锁定的依赖
     ```sh
-    $ pip install -r requirements.txt
+    $ uv sync
     ```
 - 开启本地预览服务
     ```sh
-    $ mkdocs serve # Serving on http://127.0.0.1:8000/
+    $ uv run mkdocs serve # Serving on http://127.0.0.1:8000/
     ```
 
 ## 修改发布
 
-2023、2024、2025 年版通过 GitHub Action 自动构建并部署到 TonyCrane 的个人服务器上。
+2023、2024、2025、2026 年版通过 GitHub Action 自动构建并部署到 TonyCrane 的个人服务器上。
 
 ## 历年版本
 
+- 2025 年：[`2025`](https://github.com/ZJU-Turing/TuringDoneRight/tree/2025) [turing2025.tonycrane.cc](https://turing2025.tonycrane.cc/)
 - 2024 年：[`2024`](https://github.com/ZJU-Turing/TuringDoneRight/tree/2024) [turing2024.tonycrane.cc](https://turing2024.tonycrane.cc/)
 - 2023 年：[`2023`](https://github.com/ZJU-Turing/TuringDoneRight/tree/2023) [turing2023.tonycrane.cc](https://turing2023.tonycrane.cc/)
 - 2022 年：[`2022`](https://github.com/ZJU-Turing/TuringDoneRight/tree/2022) [turing2022.tonycrane.cc](https://turing2022.tonycrane.cc/)
