@@ -7,13 +7,13 @@
 
 ## 本地构建
 
-- 安装依赖
+- 安装 [uv](https://docs.astral.sh/uv/getting-started/installation/) 后，同步锁定的依赖
     ```sh
-    $ pip install -r requirements.txt
+    $ uv sync
     ```
 - 开启本地预览服务
     ```sh
-    $ mkdocs serve # Serving on http://127.0.0.1:8000/
+    $ uv run mkdocs serve # Serving on http://127.0.0.1:8000/
     ```
 
 ## 修改发布
