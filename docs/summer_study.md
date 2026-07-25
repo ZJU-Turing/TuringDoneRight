@@ -46,7 +46,7 @@ counter: True
 
 ### 以前没有接触过计算机的同学
 
-1. 首先，一定要看的是经典的[《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)，这是你作为一个计算机人一定要具备的基本素养，这对于后续的学习生活都会有很大帮助，遇到问题时刻记住先 STFW、RTFM、RTFSC。并且建议将你的浏览器默认搜索引擎从百度、360、搜狗这类换掉，使用必应搜索或者谷歌搜索，这更有利于你获得你想要的答案；然而也不必担心自己没问出好问题，事实上，只要清晰地描述发生问题的上下文以及自己解决问题的努力，没有人会苛责提问者；
+1. 首先，一定要看的是经典的[《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)，这是你作为一个计算机人一定要具备的基本素养，这对于后续的学习生活都会有很大帮助，遇到问题时刻记住先 STFW、RTFM、RTFSC。并且建议将你的浏览器默认搜索引擎从百度、360、搜狗这类换掉，使用必应搜索或者谷歌搜索，这更有利于你获得你想要的答案；
 2. 其次，推荐看一看 “计算机教育中缺失的一课” The Missing Semester of Your CS Education，中文版主页在 <https://missing-semester-cn.github.io/>，B 站上应该有搬运的视频，后面部分有一些难，不过前面的一些命令行基础知识建议学一学。Windows 环境建议先装好 wsl2（Windows Subsystem for Linux），在里面体验一下命令行操作的快感；（哦对了，Win 系统的安装 Windows Terminal 喵，安装 Windows Terminal 谢谢喵）
 3. 再次，推荐学一学 markdown， LaTeX 或 Typst 这类文本标记语言，这对于后面记笔记、写作业、写报告、写论文都有很大帮助。<del>别惦记用你那 Word 用那等线字体、雅黑字体写那毫无美感的东西了</del>；
 
